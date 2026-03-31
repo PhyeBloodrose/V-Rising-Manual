@@ -1,0 +1,98 @@
+{
+    "Act1Boss": {
+        "hidden": true
+    },
+    "Act1Bosse": {
+        "hidden": true
+    },
+    "Act2Boss": {
+        "hidden": true
+    },
+    "Act3Boss": {
+        "hidden": true
+    },
+    "Act4Boss": {
+        "hidden": true
+    },
+    "Act5Boss": {
+        "hidden": true
+    },
+    "VBloods": {
+        "hidden": true
+    },
+    "DracBoss": {
+        "hidden": true
+    },
+    "Tier 1 Frost": {
+        "hidden": true
+    },
+    "Tier 1 Chaos": {
+        "hidden": true
+    },
+    "Amulets": {
+        "hidden": true
+    },
+    "Blood Hunter Set": {
+        "hidden": true
+    },
+    "Crimson Templar Set": {
+        "hidden": true
+    },
+    "Dark Magus Set": {
+        "hidden": true
+    },
+    "Dread Plate Set": {
+        "hidden": true
+    },
+    "Duskwatcher Set": {
+        "hidden": true
+    },
+    "Grim Knight Set": {
+        "hidden": true
+    },
+    "Grim Ranger Set": {
+        "hidden": true
+    },
+    "Maleficer Scholar Set": {
+        "hidden": true
+    },
+    "Marauder Set": {
+        "hidden": true
+    },
+    "Shadowmoon Set": {
+        "hidden": true
+    },
+    "Pendants": {
+        "hidden": true
+    },
+    "Rings": {
+        "hidden": true
+    },
+    "Shadewalker Set": {
+        "hidden": true
+    },
+    "Warlock Set": {
+        "hidden": true
+    },
+    "Tier 1 Body": {
+        "hidden": true
+    },
+    "Tier 1 Legs": {
+        "hidden": true
+    },
+    "Tier 1 Boots": {
+        "hidden": true
+    },
+    "Tier 1 Gloves": {
+        "hidden": true
+    },
+    "Spell School Mastery": {
+        "yaml_option": [ "Limit_Spell_School_Mastery" ]
+    },
+    "Fishing Locations": {
+        "yaml_option": [ "Fishsanity" ]
+    },
+    "Fishes": {
+        "yaml_option": [ "Fishsanity" ]
+    }
+}

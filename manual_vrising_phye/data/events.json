@@ -1,0 +1,106 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
+    "data": [
+        {
+            "name": "Quincy Defeated",
+            "region": "Bandit King"
+        },
+        {
+            "name": "Octavian Defeated",
+            "region": "Militia Captain"
+        },
+        {
+            "name": "Cyril Defeated",
+            "region": "Cursed Smith"
+        },
+        {
+            "name": "Vincent Defeated",
+            "region": "Frostbringer"
+        },
+        {
+            "name": "Nicholaus Defeated",
+            "region": "The Fallen"
+        },
+        {
+            "name": "Jade Defeated",
+            "region": "Jade"
+        },
+        {
+            "name": "Tristan Defeated",
+            "region": "Tristan"
+        },
+        {
+            "name": "Grethel Defeated",
+            "region": "Glassblower"
+        },
+        {
+            "name": "Ziva Defeated",
+            "region": "Engineer"
+        },
+        {
+            "name": "Voltatia Defeated",
+            "region": "Power Master"
+        },
+        {
+            "name": "Azariel Defeated",
+            "region": "Sunbringer"
+        },
+        {
+            "name": "Dracula Defeated",
+            "region": "Dracula"
+        },
+        {
+            "name": "Leandra Defeated",
+            "region": "Shadow Priestess"
+        },
+        {
+            "name": "Clive Defeated",
+            "region": "Firestarter"
+        },
+        {
+            "name": "Koda Defeated",
+            "region": "Ferocious Bear"
+        },
+        {
+            "name": "Mortium Rifts",
+            "copy_location": "Journal - An Eye into Mortium"
+        },
+        {
+            "name": "Journal Finished",
+            "copy_location": "Journal - Lord of the Night"
+        },
+        {
+            "name": "Alpha Defeated",
+            "region": "White Wolf"
+        },
+        {
+            "name": "Finn Defeated",
+            "region": "Fisherman"
+        },
+        {
+            "name": "Rufus Defeated",
+            "region": "Foreman"
+        },
+        {
+            "name": "Lidia Defeated",
+            "region": "Chaos Archer"
+        },
+        {
+            "name": "Grayson Defeated",
+            "region": "Armourer"
+        },
+        {
+            "name": "Merciless Copper",
+            "requires": "|Grayson Defeated| AND (|Progressive Sword:2| OR |Progressive Axes:2| OR |Progressive Spear:2| OR (|Progressive Crossbow:2| AND |Rufus Defeated|) OR (|Progressive Longbow| AND |Lidia Defeated|))"
+        },
+        {
+            "name": "Tier 1 Armor (3)",
+            "requires": "(|@Tier 1 Body| AND |@Tier 1 Legs| AND |@Tier 1 Boots|) OR (|@Tier 1 Body| AND |@Tier 1 Legs| AND |@Tier 1 Gloves|) OR (|@Tier 1 Body| AND |@Tier 1 Boots| AND |@Tier 1 Gloves|) OR (|@Tier 1 Legs| AND |@Tier 1 Boots| AND |@Tier 1 Gloves|)"
+        },
+        {
+            "name": "Tier 1 Armor",
+            "requires": "|@Shadewalker Set:4| OR |@Marauder Set:4| OR |@Grim Ranger Set:4| OR |@Warlock Set:4|"
+        }
+    ]
+}
+
