@@ -16,6 +16,7 @@ Currently there are four different goals in this manual.
 - Act 3 Goal - Requires you to defeat Cyril the Cursed Smith
 - Dracula Goal - Defeat Dracula and complete the Journal
 - Defeat them All - Requires you to defeat all of the V-Blood bosses!
+
 While you may pick lower Act goals, locations are not reduced if you do so. This is because the items that are randomized are too many and would break generation.
 
 ## Optional Yaml Options
