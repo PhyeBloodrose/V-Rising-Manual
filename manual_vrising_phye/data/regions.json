@@ -183,7 +183,7 @@
       "Act 2",
       "Act 2 Alt"
     ],
-    "requires": "|Quincey the Bandit King| AND (|Clive the Firestarter| OR |Kodia the Ferocious Bear|) AND {OptOne(|@Spell School Mastery:1|)}"
+    "requires": "|Quincey the Bandit King| AND (|Clive the Firestarter| OR |Kodia the Ferocious Bear|)"
   },
   "Act 2": {
     "connects_to": [
@@ -224,23 +224,29 @@
       "Act 2-4",
       "Shadowblade",
       "Glassblower",
-      "Bright Archer",
+      "Bright Archer"
+    ],
+    "requires": "|Leandra the Shadow Priestess| OR |Merciless Iron 1|"
+  },
+  "Act 2-4": {
+    "connects_to": [
+      "Act 2-5",
       "Geomancer",
       "The Hollow",
       "Mountain Terror",
       "Ruins of Mortium",
       "Hallowed Mountains"
     ],
-    "requires": "|Leandra the Shadow Priestess| OR (|Maja the Dark Savant| AND |Vincent the Frostbringer|)"
-  },
-  "Act 2-4": {
-    "connects_to": [
-      "Act 2-5",
-      "Cursed Champion"
-    ],
-    "requires": "|Leandra the Shadow Priestess| AND |Maja the Dark Savant| AND |Vincent the Frostbringer|"
+    "requires": "|Leandra the Shadow Priestess| AND (|Merciless Iron 2| OR |@Pendants|)"
   },
   "Act 2-5": {
+    "connects_to": [
+      "Act 2-6",
+      "Cursed Champion"
+    ],
+    "requires": "(|Merciless Iron 3| AND |@Pendants|) OR (|Merciless Iron 3| AND |Tier 2 Armor (2)| OR (|@Pendants| AND |Tier 2 Armor (2)|)"
+  },
+  "Act 2-6": {
     "connects_to": [
       "Act 3",
       "The Betrayer",
@@ -248,7 +254,7 @@
       "Shepherd",
       "Militia Captain"
     ],
-    "requires": "|Frostmaw the Mountain Terror|"
+    "requires": "|Merciless Iron 4| AND |@Pendants| AND |Tier 2 Armor (2)|"
   },
   "Act 2-1a": {
     "connects_to": [
@@ -300,14 +306,14 @@
       "Ruins of Mortium",
       "Hallowed Mountains"
     ],
-    "requires": "|Bane the Shadowblade| AND |Grethel the Glassblower| AND |Meredith the Bright Archer|"
+    "requires": "|Bane the Shadowblade| AND |Grethel the Glassblower| AND |Meredith the Bright Archer| AND (|Merciless Iron 2| OR |@Pendants|)"
   },
   "Act 2-7a": {
     "connects_to": [
       "Act 2-8a",
       "Cursed Champion"
     ],
-    "requires": "|Terah the Geomancer| AND |Frostmaw the Mountain Terror| AND |General Elena the Hollow|"
+    "requires": "|Terah the Geomancer| AND |Frostmaw the Mountain Terror| AND |General Elena the Hollow| AND ((|Merciless Iron 3| AND |@Pendants|) OR (|Merciless Iron 3| AND |Tier 2 Armor (2)| OR (|@Pendants| AND |Tier 2 Armor (2)|))"
   },
   "Act 2-8a": {
     "connects_to": [
@@ -316,7 +322,7 @@
       "Jade",
       "Shepherd"
     ],
-    "requires": "|Gaius the Cursed Champion|"
+    "requires": "|Gaius the Cursed Champion| AND |Merciless Iron 4| AND |@Pendants| AND |Tier 2 Armor (2)|"
   },
   "Act 2-9a": {
     "connects_to": [
@@ -408,7 +414,6 @@
       "Act 3-1",
       "Engineer",
       "Blade Dancer",
-      "Purifier",
       "Gloomrot South"
     ],
     "requires": "(|Octavian the Militia Captain| AND {YamlEnabled(Act2_Goal)}) OR {YamlDisabled(Act2_Goal)}"
@@ -416,14 +421,21 @@
   "Act 3-1": {
     "connects_to": [
       "Act 3-2",
+      "Purifier"
+    ],
+    "requires": "|Tier 2 Armor| OR |Ancestral Weapon|"
+  },
+  "Act 3-2": {
+    "connects_to": [
+      "Act 3-3",
       "Spider Queen",
-      "Wanderer",
+      "Old Wanderer",
       "Soultaker",
       "Cursed Forest"
     ],
     "requires": "|Ben the Old Wanderer| AND |Jade the Vampire Hunter| AND |Tristan the Vampire Hunter| AND |Ziva the Engineer| AND |Octavian the Militia Captain| AND |Grethel the Glassblower|"
   },
-  "Act 3-2": {
+  "Act 3-3": {
     "connects_to": [
       "Duke of Balaton",
       "Werewolf Chief",
@@ -448,7 +460,7 @@
     "connects_to": [],
     "requires": "|Ungora the Spider Queen|"
   },
-  "Wanderer": {
+  "Old Wanderer": {
     "connects_to": [],
     "requires": "|Ben the Old Wanderer|"
   },
@@ -484,13 +496,13 @@
       "Act 3-2a",
       "Purifier"
     ],
-    "requires": "|Ziva the Engineer| AND |Domina the Blade Dancer|"
+    "requires": "|Ziva the Engineer| AND |Domina the Blade Dancer| AND |Tier 2 Armor|"
   },
   "Act 3-2a": {
     "connects_to": [
       "Act 3-3a",
       "Spider Queen",
-      "Wanderer",
+      "Old Wanderer",
       "Soultaker",
       "Cursed Forest"
     ],
@@ -572,7 +584,7 @@
     "connects_to": [
       "Firstborn",
       "Serpent Queen",
-      "Dracula"
+      "Immortal King"
     ],
     "requires": "|Gorecrusher the Behemoth| AND |General Valencia the Depraved| AND |Terrorclaw the Ogre|"
   },
@@ -662,7 +674,7 @@
     "connects_to": [
       "Firstborn",
       "Serpent Queen",
-      "Dracula"
+      "Immortal King"
     ],
     "requires": "|Solarus the Immaculate| AND |Talzur the Winged Horror|"
   },
@@ -752,7 +764,7 @@
     "connects_to": [],
     "requires": "|Megara the Serpent Queen|"
   },
-  "Dracula": {
+  "Immortal King": {
     "connects_to": [],
     "requires": "|@DracBoss:all| AND |Dracula the Immortal King|"
   },

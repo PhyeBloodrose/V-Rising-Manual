@@ -86,6 +86,30 @@
     "Tier 1 Gloves": {
         "hidden": true
     },
+    "Tier 2 Body": {
+        "hidden": true
+    },
+    "Tier 2 Legs": {
+        "hidden": true
+    },
+    "Tier 2 Boots": {
+        "hidden": true
+    },
+    "Tier 2 Gloves": {
+        "hidden": true
+    },
+    "Tier 3 Body": {
+        "hidden": true
+    },
+    "Tier 3 Legs": {
+        "hidden": true
+    },
+    "Tier 3 Boots": {
+        "hidden": true
+    },
+    "Tier 3 Gloves": {
+        "hidden": true
+    },
     "Spell School Mastery": {
         "yaml_option": [ "Limit_Spell_School_Mastery" ]
     },

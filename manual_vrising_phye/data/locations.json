@@ -1247,7 +1247,7 @@
   },
   {
     "name": "Ben the Old Wanderer (Frost Tier 1)",
-    "region": "Wanderer",
+    "region": "Old Wanderer",
     "category": [
       "Act 3 Bosses"
     ],
@@ -1255,7 +1255,7 @@
   },
   {
     "name": "Ben the Old Wanderer (Pristine Leather)",
-    "region": "Wanderer",
+    "region": "Old Wanderer",
     "category": [
       "Act 3 Bosses"
     ],
@@ -1263,7 +1263,7 @@
   },
   {
     "name": "Ben the Old Wanderer (Shroud of the Forest)",
-    "region": "Wanderer",
+    "region": "Old Wanderer",
     "category": [
       "Act 3 Bosses"
     ],
@@ -1919,7 +1919,7 @@
   },
   {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
-    "region": "Dracula",
+    "region": "Immortal King",
     "category": [
       "Act 5 Boss"
     ],
@@ -2562,7 +2562,7 @@
     "category": [
       "Exploration - Dunley Farmlands"
     ],
-    "requires": ""
+    "requires": "|Clive Defeated| AND |Meredith Defeated|"
   },
   {
     "name": "Discover Gracefall Village",
@@ -3054,7 +3054,7 @@
   },
   {
     "name": "Complete a Tier 1 Rift Incursion",
-    "region": "Wanderer",
+    "region": "Old Wanderer",
     "category": [
       "Exploration - Ruins of Mortium"
     ],
@@ -4362,11 +4362,11 @@
     "category": [
       "Shopping"
     ],
-    "requires": "|Bane the Shadowblade|"
+    "requires": "|Bane Defeated|"
   },
   {
     "name": "Ruins of Mortium - Buy something at a Vampire Merchant Camp",
-    "region": "Wanderer",
+    "region": "Old Wanderer",
     "category": [
       "Shopping"
     ],
@@ -5548,6 +5548,6 @@
     "category": [
       "Goal"
     ],
-    "requires": "(|Journal Finished| AND {YamlEnabled(Dracula_Goal)}) OR (|Quincy Defeated| AND {YamlEnabled(Act1_Goal)}) OR (|Octavian Defeated| AND {YamlEnabled(Act2_Goal)}) OR (|Cyril Defeated| AND {YamlEnabled(Act3_Goal)}) OR (|@VBloods:all| AND {YamlEnabled(DefeatThemAll_Goal)})"
+    "requires": "(|Journal Finished| AND {YamlEnabled(Dracula_Goal)}) OR (|Quincy Defeated| AND {YamlEnabled(Act1_Goal)}) OR (|Octavian Defeated| AND {YamlEnabled(Act2_Goal)}) OR (|Cyril Defeated| AND {YamlEnabled(Act3_Goal)}) OR (|@VBlood:64| AND {YamlEnabled(DefeatThemAll_Goal)})"
   }
 ]

@@ -23,3 +23,4 @@ While you may pick lower Act goals, locations are not reduced if you do so. This
 - Progressive Bosses - When this option is enabled, you will have to defeat every Boss in its row before tackling the next row of bosses.
 - Fishsanity - When this option is enabled there will be a location added for each fish that exist in the game. Will also add the various fishes as filler items if you do.
 - Spell School Mastery - When this option is enabled, it will add Spell Mastery items into your item pool for each Spell School. You are not allowed to learn any of that specific spell school of spells until you receive them.
+- Death Link - When a death link is sent to you, immediately click on the "Unstuck" button, it will promptly kill your character. Whenever you die, you have to click on the death link button yourself in the manual client!
