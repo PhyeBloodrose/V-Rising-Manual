@@ -118,5 +118,24 @@
     },
     "Fishes": {
         "yaml_option": [ "Fishsanity" ]
+    },
+    "Structures": {
+        "yaml_option": [ "More_Knowledge" ]
+    },
+    "Consumables": {
+        "yaml_option": [ "More_Knowledge" ]
+    },
+    "MoreKnowledge": {
+        "yaml_option": [ "More_Knowledge" ],
+        "hidden": true
+    },
+    "Player Progression": {
+        "yaml_option": [ "Master_Elements" ]
+    },
+    "Shopping": {
+        "yaml_option": [ "Shopping" ]
+    },
+    "Steam Achievements": {
+        "yaml_option": [ "Steam_Achievements" ]
     }
 }

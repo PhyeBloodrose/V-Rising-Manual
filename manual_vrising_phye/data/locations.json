@@ -3072,7 +3072,8 @@
     "name": "Research Desk - Learn Brew of Ferocity",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Brew of Ferocity|"
   },
@@ -3080,7 +3081,8 @@
     "name": "Research Desk - Learn Enchanted Brew",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Enchanted Brew|"
   },
@@ -3088,7 +3090,8 @@
     "name": "Research Desk - Learn Blood Rose Brew",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Blood Rose Brew|"
   },
@@ -3096,7 +3099,8 @@
     "name": "Research Desk - Learn Minor Sun Resistance Brew",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Minor Sun Resistance Brew|"
   },
@@ -3104,7 +3108,8 @@
     "name": "Research Desk - Learn Silver Resistance Brew",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Silver Resistance Brew|"
   },
@@ -3336,7 +3341,8 @@
     "name": "Research Desk - Learn Forge Flooring",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Forge Flooring|"
   },
@@ -3344,7 +3350,8 @@
     "name": "Research Desk - Learn Alchemy Lab Flooring",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Alchemy Lab Flooring|"
   },
@@ -3352,7 +3359,8 @@
     "name": "Research Desk - Learn Water Well",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Water Well|"
   },
@@ -3360,7 +3368,8 @@
     "name": "Research Desk - Learn Gravel Paths",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Gravel Paths|"
   },
@@ -3368,7 +3377,8 @@
     "name": "Research Desk - Learn Assortment of fine Paintings",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of fine Paintings|"
   },
@@ -3376,7 +3386,8 @@
     "name": "Research Desk - Learn Vases and Plants",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Vases and Plants|"
   },
@@ -3384,7 +3395,8 @@
     "name": "Research Desk - Learn Stone Ornaments",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Stone Ornaments|"
   },
@@ -3392,7 +3404,8 @@
     "name": "Research Desk - Learn Assortment of Windows",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Windows|"
   },
@@ -3400,7 +3413,8 @@
     "name": "Research Desk - Learn Simple Garden Planters",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Simple Garden Planters|"
   },
@@ -3408,7 +3422,8 @@
     "name": "Research Desk - Learn Simple Carpets",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Simple Carpets|"
   },
@@ -3416,7 +3431,8 @@
     "name": "Research Desk - Learn Hearth Wall Panels",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Hearth Wall Panels|"
   },
@@ -3424,7 +3440,8 @@
     "name": "Research Desk - Learn Decorative Stone Walls",
     "region": "Research Desk",
     "category": [
-      "Knowledge - Research Desk"
+      "Knowledge - Research Desk",
+      "MoreKnowledge"
     ],
     "requires": "|Decorative Stone Walls|"
   },
@@ -3432,7 +3449,8 @@
     "name": "Study - Learn Fire Resistance Brew",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Fire Resistance Brew|"
   },
@@ -3440,7 +3458,8 @@
     "name": "Study - Learn Wrangler's Potion",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Wrangler's Potion|"
   },
@@ -3448,7 +3467,8 @@
     "name": "Study - Learn Garlic Resistance Potion",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Garlic Resistance Potion|"
   },
@@ -3744,7 +3764,8 @@
     "name": "Study - Learn Tailor's Flooring",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Tailor's Flooring|"
   },
@@ -3752,7 +3773,8 @@
     "name": "Study - Learn Library Flooring",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Library Flooring|"
   },
@@ -3760,7 +3782,8 @@
     "name": "Study - Learn Assortment of Storage Lockers",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Storage Lockers|"
   },
@@ -3768,7 +3791,8 @@
     "name": "Study - Learn Assortment of Fine Braziers",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Fine Braziers|"
   },
@@ -3776,7 +3800,8 @@
     "name": "Study - Learn Assortment of Fine Candle Stands",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Fine Candle Stands|"
   },
@@ -3784,7 +3809,8 @@
     "name": "Study - Learn Assortment of Castle Chairs",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Castle Chairs|"
   },
@@ -3792,7 +3818,8 @@
     "name": "Study - Learn Fireplaces",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Fireplaces|"
   },
@@ -3800,7 +3827,8 @@
     "name": "Study - Learn Cobblestone Paths",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Cobblestone Paths|"
   },
@@ -3808,7 +3836,8 @@
     "name": "Study - Learn Dux Carpet Collection",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Dux Carpet Collection|"
   },
@@ -3816,7 +3845,8 @@
     "name": "Study - Learn Noble Fences & Fountains",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Noble Fences & Fountains|"
   },
@@ -3824,7 +3854,8 @@
     "name": "Study - Learn Fine Dining Table Collection",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Fine Dining Table Collection|"
   },
@@ -3832,7 +3863,8 @@
     "name": "Study - Learn Hanging Lanterns",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Hanging Lanterns|"
   },
@@ -3840,7 +3872,8 @@
     "name": "Study - Learn Banners",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Banners|"
   },
@@ -3848,7 +3881,8 @@
     "name": "Study - Learn Modest Garden Planters",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Modest Garden Planters|"
   },
@@ -3856,7 +3890,8 @@
     "name": "Study - Learn Garden Furniture and Lanterns",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Garden Furniture and Lanterns|"
   },
@@ -3864,7 +3899,8 @@
     "name": "Study - Learn Prison Walls",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Prison Walls|"
   },
@@ -3872,7 +3908,8 @@
     "name": "Study - Learn Cordial Wall Panels",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Cordial Wall Panels|"
   },
@@ -3880,7 +3917,8 @@
     "name": "Study - Learn Assortment of Workshop Decorations",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Workshop Decorations|"
   },
@@ -3888,7 +3926,8 @@
     "name": "Study - Learn Assortment of Desks",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Desks|"
   },
@@ -3896,7 +3935,8 @@
     "name": "Study - Learn Assortment of Desk Chairs",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
     "requires": "|Tailor's Flooring|"
   },
@@ -3904,7 +3944,8 @@
     "name": "Athenaeum - Learn Potion of Rage",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Potion of Rage|"
   },
@@ -3912,7 +3953,8 @@
     "name": "Athenaeum - Learn Witch Potion",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Witch Potion|"
   },
@@ -4200,7 +4242,8 @@
     "name": "Athenaeum - Learn Assortment of Cabinets",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Cabinets|"
   },
@@ -4208,7 +4251,8 @@
     "name": "Athenaeum - Learn Assortment of Great Braziers",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Great Braziers|"
   },
@@ -4216,7 +4260,8 @@
     "name": "Athenaeum - Learn Distinguished Carpet Collection",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Distinguished Carpet Collection|"
   },
@@ -4224,7 +4269,8 @@
     "name": "Athenaeum - Learn Assortment of Royal Curtains",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Assortment of Royal Curtains|"
   },
@@ -4232,7 +4278,8 @@
     "name": "Athenaeum - Learn Sofa & Divan Collection",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Sofa & Divan Collection|"
   },
@@ -4240,7 +4287,8 @@
     "name": "Athenaeum - Learn Dressing Tables & Folding Walls",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Dressing Tables & Folding Walls|"
   },
@@ -4248,7 +4296,8 @@
     "name": "Athenaeum - Learn Lamp Posts",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Lamp Posts|"
   },
@@ -4256,7 +4305,8 @@
     "name": "Athenaeum - Learn Flying Lights",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Flying Lights|"
   },
@@ -4264,7 +4314,8 @@
     "name": "Athenaeum - Learn Garden Archways & Pergolas",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Garden Archways & Pergolas|"
   },
@@ -4272,7 +4323,8 @@
     "name": "Athenaeum - Learn Large Fountain",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Large Fountain|"
   },
@@ -4280,7 +4332,8 @@
     "name": "Athenaeum - Learn Stately Stone Walls",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
     "requires": "|Stately Stone Walls|"
   },
@@ -4290,7 +4343,7 @@
     "category": [
       "Player Progression"
     ],
-    "requires": "{OptOne(|Blood Magic|)} AND |@Spellbook - Blood Magic:all| AND |Rufus the Foreman| AND |Raziel the Shepherd| AND |Clive the Firestarter| AND |Meredith the Bright Archer|"
+    "requires": "{OptOne(|Blood Magic|)} AND |@Spellbook - Blood Magic:all| AND |Rufus Defeated| AND |Raziel Defeated| AND |Clive Defeated| AND |Meredith Defeated|"
   },
   {
     "name": "Mastery over Chaos Magic",
@@ -4298,7 +4351,7 @@
     "category": [
       "Player Progression"
     ],
-    "requires": "{OptOne(|Chaos Magic|)} AND |@Spellbook - Chaos Magic:all| AND |Errol the Stonebreaker| AND |Lidia the Chaos Archer| AND |Morian the Stormwing Matriarch| AND |Clive the Firestarter| AND |Stavros the Carver|"
+    "requires": "{OptOne(|Chaos Magic|)} AND |@Spellbook - Chaos Magic:all| AND |Errol Defeated| AND |Lidia Defeated| AND |Morian Defeated| AND |Clive Defeated| AND |Stavros Defeated|"
   },
   {
     "name": "Mastery over Unholy Magic",
@@ -4306,7 +4359,7 @@
     "category": [
       "Player Progression"
     ],
-    "requires": "{OptOne(|Unholy Magic|)} AND |@Spellbook - Unholy Magic:all| AND |Gaius the Cursed Champion| AND |Bane the Shadowblade| AND |Kriig the Undead General| AND |General Cassius the Betrayer| AND |Foulrot the Soultaker| AND |Nicholaus the Fallen|"
+    "requires": "{OptOne(|Unholy Magic|)} AND |@Spellbook - Unholy Magic:all| AND |Gaius Defeated| AND |Bane Defeated| AND |Kriig Defeated| AND |General Cassius Defeated| AND |Foulrot Defeated| AND |Nicholaus Defeated|"
   },
   {
     "name": "Mastery over Illusion Magic",
@@ -4314,7 +4367,7 @@
     "category": [
       "Player Progression"
     ],
-    "requires": "{OptOne(|Illusion Magic|)} AND |@Spellbook - Illusion Magic:all| AND |Grayson the Armourer| AND |Polora the Feywalker| AND |Christina the Sun Priestess| AND |Jakira the Shadow Huntress| AND |Terah the Geomancer|"
+    "requires": "{OptOne(|Illusion Magic|)} AND |@Spellbook - Illusion Magic:all| AND |Grayson Defeated| AND |Polora Defeated| AND |Christina Defeated| AND |Jakira Defeated| AND |Terah Defeated|"
   },
   {
     "name": "Mastery over Frost Magic",
@@ -4322,7 +4375,7 @@
     "category": [
       "Player Progression"
     ],
-    "requires": "{OptOne(|Frost Magic|)} AND |@Spellbook - Frost Magic:all| AND |Finn the Fisherman| AND |Sir Magnus the Overseer| AND |General Elena the Hollow| AND |Terrorclaw the Ogre|"
+    "requires": "{OptOne(|Frost Magic|)} AND |@Spellbook - Frost Magic:all| AND |Finn Defeated| AND |Sir Magnus Defeated| AND |General Elena Defeated| AND |Terrorclaw Defeated|"
   },
   {
     "name": "Mastery over Storm Magic",
@@ -4330,7 +4383,7 @@
     "category": [
       "Player Progression"
     ],
-    "requires": "{OptOne(|Storm Magic|)} AND |@Spellbook - Storm Magic:all| AND |Sir Erwin the Gallant Cavalier| AND |Mairwyn the Elementalist| AND |Meredith the Bright Archer| AND |Domina the Blade Dancer|"
+    "requires": "{OptOne(|Storm Magic|)} AND |@Spellbook - Storm Magic:all| AND |Sir Erwin Defeated| AND |Mairwyn Defeated| AND |Meredith Defeated| AND |Domina Defeated|"
   },
   {
     "name": "Farbane Woods - Buy something at the Shady Merchants Camp",
@@ -5542,12 +5595,381 @@
     "requires": "|Finn Defeated|"
   },
   {
+    "name": "Achievement - A First Taste",
+    "region": "Farbane Woods",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Feed from a living creature."
+  },
+  {
+    "name": "Achievement - Lord of the Land",
+    "region": "J2",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Place a Castle Heart and claim an unoccupied territory."
+  },
+  {
+    "name": "Achievement - First of Many",
+    "region": "White Wolf",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Drink the blood of a V Blood."
+  },
+  {
+    "name": "Achievement - A Creature of Many Forms",
+    "region": "White Wolf",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Use your Vampire powers to shapeshift into another form."
+  },
+  {
+    "name": "Achievement - Work Smart, Not Hard",
+    "region": "J5",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Interact with a work station that has the room and floor bonus active."
+  },
+  {
+    "name": "Achievement - Vampire Rising",
+    "region": "J5",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Place a staircase."
+  },
+  {
+    "name": "Achievement - Ultimate Power",
+    "region": "General",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|Ultimate Ability|",
+    "hint_entrance": "Cast an ultimate ability."
+  },
+  {
+    "name": "Achievement - Upon a Pale Horse",
+    "region": "Dunley Farmlands",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Ride a horse."
+  },
+  {
+    "name": "Achievement - Larger Pockets!",
+    "region": "Chaos Archer",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Equip a bag."
+  },
+  {
+    "name": "Achievement - Dressed to Impress",
+    "region": "J2",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Equip an item in a Cosmetic Slot."
+  },
+  {
+    "name": "Achievement - The Allure of Coin",
+    "region": "White Wolf",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Trade with a Shady Merchant in the Farbane Woods."
+  },
+  {
+    "name": "Achievement - Master of Disguise",
+    "region": "Shadowblade",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Trade with a merchant as a very ordinary human."
+  },
+  {
+    "name": "Achievement - A Vampire with a Hobby",
+    "region": "J2",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Plant a seed in a planter."
+  },
+  {
+    "name": "Achievement - Exquisite Blood",
+    "region": "Gloomrot South",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Drink blood from a 100% blood quality source."
+  },
+  {
+    "name": "Achievement - Gone Fishing",
+    "region": "Fisherman",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Catch a fish using a fishing rod."
+  },
+  {
+    "name": "Achievement - Your Number One Fan",
+    "region": "J5",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Fully equip a servant."
+  },
+  {
+    "name": "Achievement - Symphony of the Night",
+    "region": "J6",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Interact with a music box."
+  },
+  {
+    "name": "Achievement - Oh No!",
+    "region": "White Wolf",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Eat the wrong mushroom."
+  },
+  {
+    "name": "Achievement - It's a Tight Squeeze",
+    "region": "Silverlight Hills",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|Nibbles Defeated|",
+    "hint_entrance": "Use Rat Form and traverse through a small hole."
+  },
+  {
+    "name": "Achievement - A Weapon From a More Civilized Age",
+    "region": "General",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|Ancestral Weapon|",
+    "hint_entrance": "Reforge a shattered weapon at the Ancestral Forge."
+  },
+  {
+    "name": "Achievement - Riftslayer",
+    "region": "Old Wanderer",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|Mortium Rifts|",
+    "hint_entrance": "Participate in closing a rift to the Shadow Realm."
+  },
+  {
+    "name": "Achievement - To the Skies",
+    "region": "Night Champion",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Find a way to fly."
+  },
+  {
+    "name": "Achievement - A Whole New World",
+    "region": "Farbane Woods",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Farbane Woods area."
+  },
+  {
+    "name": "Achievement - A Fox in the Hen House",
+    "region": "Dunley Farmlands",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Dunley Farmlands area."
+  },
+  {
+    "name": "Achievement - Footsteps in the Snow",
+    "region": "Hallowed Mountains",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Hallowed Mountains area."
+  },
+  {
+    "name": "Achievement - The Forgotten Reaches",
+    "region": "Ruins of Mortium",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Ruins of Mortium area."
+  },
+  {
+    "name": "Achievement - Don't Drink the Water",
+    "region": "Gloomrot South",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Gloomrot South area."
+  },
+  {
+    "name": "Achievement - March of the Machines",
+    "region": "Gloomrot North",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Gloomrot North area."
+  },
+  {
+    "name": "Achievement - Forbidden Footsteps",
+    "region": "Cursed Forest",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Cursed Forest area."
+  },
+  {
+    "name": "Achievement - Godless Intrusion",
+    "region": "Silverlight Hills",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture into the Silverlight area."
+  },
+  {
+    "name": "Achievement - Every Corner of the World",
+    "region": "Silverlight Hills",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Venture to all major regions."
+  },
+  {
+    "name": "Achievement - Collector of Forgotten Lore I",
+    "region": "Research Desk",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|@Knowledge - Research Desk:all|",
+    "hint_entrance": "Interact with a Research Desk that has all technologies unlocked."
+  },
+  {
+    "name": "Achievement - Collector of Forgotten Lore II",
+    "region": "Study",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|@Knowledge - Study:all|",
+    "hint_entrance": "Interact with a Study that has all technologies unlocked."
+  },
+  {
+    "name": "Achievement - Collector of Forgotten Lore III",
+    "region": "Athenaeum",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|@Knowledge - Athenaeum:all|",
+    "hint_entrance": "Interact with an Athenaeum that has all technologies unlocked."
+  },
+  {
+    "name": "Achievement - An Eye for Quality",
+    "region": "J5",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|Cyril Defeated|",
+    "hint_entrance": "Successfully charm a human that has 100% blood quality."
+  },
+  {
+    "name": "Achievement - A Perfect Test Subject",
+    "region": "General",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "|Angram Defeated| AND |Clive Defeated|",
+    "hint_entrance": "Feed a prisoner with Irradiant Gruel and have them reach 100% blood quality as a result."
+  },
+  {
+    "name": "Achievement - Completed Act 1",
+    "region": "Bandit King",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Defeat Quincey the Bandit King and complete Act I."
+  },
+  {
+    "name": "Achievement - Completed Act 2",
+    "region": "Militia Captain",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Defeat Octavian the Militia Leader and complete Act II."
+  },
+  {
+    "name": "Achievement - Completed Act 3",
+    "region": "Cursed Smith",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Defeat Cyril the Cursed Smith and complete Act III."
+  },
+  {
+    "name": "Achievement - Completed Act 4",
+    "region": "The Immaculate",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Defeat Solarus the Immaculate and complete Act IV."
+  },
+  {
+    "name": "Achievement - Slayer of the Immortal King",
+    "region": "Immortal King",
+    "category": [
+      "Steam Achievements"
+    ],
+    "requires": "",
+    "hint_entrance": "Defeat Dracula, the Immortal King."
+  },
+  {
     "name": "Goal Achieved",
     "region": "Goal",
     "victory": true,
     "category": [
       "Goal"
     ],
-    "requires": "(|Journal Finished| AND {YamlEnabled(Dracula_Goal)}) OR (|Quincy Defeated| AND {YamlEnabled(Act1_Goal)}) OR (|Octavian Defeated| AND {YamlEnabled(Act2_Goal)}) OR (|Cyril Defeated| AND {YamlEnabled(Act3_Goal)}) OR (|@VBlood:64| AND {YamlEnabled(DefeatThemAll_Goal)})"
+    "requires": "(|Journal Finished| AND {YamlEnabled(Dracula_Goal)}) OR (|Quincey Defeated| AND {YamlEnabled(Act1_Goal)}) OR (|Octavian Defeated| AND {YamlEnabled(Act2_Goal)}) OR (|Cyril Defeated| AND {YamlEnabled(Act3_Goal)}) OR (|@VBlood:64| AND {YamlEnabled(DefeatThemAll_Goal)})"
   }
 ]

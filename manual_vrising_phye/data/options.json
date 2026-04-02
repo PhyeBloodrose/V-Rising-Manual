@@ -22,10 +22,6 @@
         }
     },
     "user": {
-        "_commented_out_option": {
-            "type": "Toggle",
-            "default": true
-        },
         "Dracula_Goal": {
             "description": [
                 "Vanilla Goal",
@@ -33,7 +29,7 @@
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Goal Options - Only Pick One!"
+            "group": "Goal Options"
         },
         "Act1_Goal": {
             "description": [
@@ -42,7 +38,7 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Goal Options - Only Pick One!"
+            "group": "Goal Options"
         },
         "Act2_Goal": {
             "description": [
@@ -51,7 +47,7 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Goal Options - Only Pick One!"
+            "group": "Goal Options"
         },
         "Act3_Goal": {
             "description": [
@@ -60,7 +56,7 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Goal Options - Only Pick One!"
+            "group": "Goal Options"
         },
         "DefeatThemAll_Goal": {
             "description": [
@@ -69,7 +65,7 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Goal Options - Only Pick One!"
+            "group": "Goal Options"
         },
         "Progressive_Bosses": {
             "description": [
@@ -97,49 +93,40 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Additional Options"
+            "group": "Extra Locations"
         },
-        "_Example_Choice": {
-            "type": "Choice",
+        "More_Knowledge": {
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Adds all the Items you receive from a Knowledge Stations into the pool of items and as extra checks.",
+                "These Items which are labeled as 'Structures' and 'Consumables' ingame."
             ],
-            "values": {
-                "start": 0,
-                "test": 1
-            },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "_Example_Range": {
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": { "example": 2 },
-            "group": "Example Options"
-        },
-
-        "_DLC_enabled": {
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "Master_Elements": {
+            "description": [
+                "Adds extra checks for learning all of the spells in the same Spell School."
             ],
-            "default": true
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "Shopping": {
+            "description": [
+                "Adds a few extra locations as shopping locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "Steam_Achievements": {
+            "description": [
+                "Adds all of the Steam Achievements excluding Brutal Difficulty as extra locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
         }
     }
 

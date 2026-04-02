@@ -106,7 +106,7 @@
             ]
         },
         {
-            "name": "Quincy Defeated",
+            "name": "Quincey Defeated",
             "region": "Bandit King",
             "category": [
                 "Act1Boss",
@@ -306,7 +306,7 @@
             ]
         },
         {
-            "name": "Soulrot Defeated",
+            "name": "Foulrot Defeated",
             "region": "Soultaker",
             "category": [
                 "Act3Boss",
@@ -513,6 +513,10 @@
                 "Act5Boss",
                 "VBlood"
             ]
+        },
+        {
+            "name": "Ultimate Ability",
+            "requires": "({OptOne(|Blood Magic|)} AND (|Tristan Defeated| OR |Willfred Defeated|) AND (|Crimson Beam| OR |Heart Strike|)) OR ({OptOne(|Chaos Magic|)} AND |Quincey Defeated| AND (|Merciless Charge| OR |Chaos Barrage|)) OR ({OptOne(|Unholy Magic|)} AND (|Nicholaus Defeated| OR |Ungora Defeated|) AND (|Army of the Dead| OR |Volatile Arachnid|)) OR ({OptOne(|Illusion Magic|)} AND (|Terah Defeated| OR |Gorecrusher Defeated|) AND (|Spectral Guardian| OR |Wisp Dance|)) OR ({OptOne(|Frost Magic|)} AND |Frostmaw Defeated| AND (|Arctic Leap| OR |Ice Block|)) OR ({OptOne(|Storm Magic|)} AND |Octavian Defeated| AND (|Raging Tempest| OR |Lightning Typhoon|))"
         },
         {
             "name": "Mortium Rifts",

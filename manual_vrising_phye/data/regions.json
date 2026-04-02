@@ -833,19 +833,19 @@
      "J5",
      "Research Desk"
     ],
-   "requires": "(|Keely the Frost Archer| AND |Errol the Stonebreaker| AND ((|@Tier 1 Frost| AND {OptOne(Frost Magic)}) or (|@Tier 1 Chaos| AND {OptOne(Chaos Magic)}))) OR (|Rufus the Foreman| AND |Keely the Frost Archer| AND ((|@Tier 1 Frost| AND {OptOne(Frost Magic)}) or (|Blood Rage| AND {OptOne(Blood Magic)}))) OR (|Errol the Stonebreaker| and |Rufus the Foreman| AND ((|Blood Rage| AND {OptOne(Blood Magic)}) or (|@Tier 1 Chaos| AND {OptOne(Chaos Magic)})))"
+   "requires": "(|Keely Defeated| AND |Errol Defeated| AND ((|@Tier 1 Frost| AND {OptOne(Frost Magic)}) or (|@Tier 1 Chaos| AND {OptOne(Chaos Magic)}))) OR (|Rufus Defeated| AND |Keely Defeated| AND ((|@Tier 1 Frost| AND {OptOne(Frost Magic)}) or (|Blood Rage| AND {OptOne(Blood Magic)}))) OR (|Errol Defeated| and |Rufus Defeated| AND ((|Blood Rage| AND {OptOne(Blood Magic)}) or (|@Tier 1 Chaos| AND {OptOne(Chaos Magic)})))"
   },
   "J5": {
     "connects_to": [
       "J6"
     ],
-    "requires": "|Keely the Frost Archer|"
+    "requires": "|Keely Defeated|"
   },
   "J6": {
     "connects_to": [
       "J7"
     ],
-    "requires": "|Quincy Defeated|"
+    "requires": "|Quincey Defeated|"
   },
   "J7": {
     "connects_to": [
