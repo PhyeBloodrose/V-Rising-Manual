@@ -24,3 +24,7 @@ While you may pick lower Act goals, locations are not reduced if you do so. This
 - Fishsanity - When this option is enabled there will be a location added for each fish that exist in the game. Will also add the various fishes as filler items if you do.
 - Spell School Mastery - When this option is enabled, it will add Spell Mastery items into your item pool for each Spell School. You are not allowed to learn any of that specific spell school of spells until you receive them.
 - Death Link - When a death link is sent to you, immediately click on the "Unstuck" button, it will promptly kill your character. Whenever you die, you have to click on the death link button yourself in the manual client!
+- More Knowledge - Adds all of the Structures and Consumables as location checks at the Knowledge Stations. One of each item will also be added into the multiworld.
+- Master Elements - Adds extra locations for when you obtain all of the spells in the same spell school.
+- Shopping - Adds a few extra locations related to shopping at the various merchants in the world.
+- Steam Achievements - Adds all the Steam Achievements as extra locations. Be wary though, this option adds around 40 nothing fillers.
