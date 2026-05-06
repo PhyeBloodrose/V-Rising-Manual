@@ -9,6 +9,16 @@
     "requires": ""
   },
   {
+    "name": "Alpha the White Wolf (Lost Soul)",
+    "region": "White Wolf",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Keely the Frost Archer (Frost Tier 1)",
     "region": "Frost Archer",
     "category": [
@@ -50,6 +60,16 @@
     "requires": ""
   },
   {
+    "name": "Keely the Frost Archer (Lost Soul)",
+    "region": "Frost Archer",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Errol the Stonebreaker (Chaos Tier 1)",
     "region": "Stonebreaker",
     "category": [
@@ -71,6 +91,16 @@
     "region": "Stonebreaker",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Errol the Stonebreaker (Lost Soul)",
+    "region": "Stonebreaker",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -116,6 +146,16 @@
     "requires": ""
   },
   {
+    "name": "Rufus the Foreman (Lost Soul)",
+    "region": "Foreman",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Grayson the Armourer (Illusion Tier 1)",
     "region": "Armourer",
     "category": [
@@ -145,6 +185,15 @@
     "region": "Armourer",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Grayson the Armourer (Lost Soul)",
+    "region": "Armourer",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -198,11 +247,30 @@
     "requires": ""
   },
   {
+    "name": "Goreswine the Ravager (Lost Souls)",
+    "region": "Ravager",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Nibbles the Putrid Rat (Rat Form)",
     "region": "Putrid Rat",
     "category": [
       "Act 1 Bosses",
       "Act1Bosse"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nibbles the Putrid Rat (Lost Soul)",
+    "region": "Putrid Rat",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -248,6 +316,15 @@
     "requires": ""
   },
   {
+    "name": "Lidia the Chaos Archer (Lost Soul)",
+    "region": "Chaos Archer",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Clive the Firestarter (Chaos Tier 2)",
     "region": "Firestarter",
     "category": [
@@ -273,6 +350,15 @@
     "requires": ""
   },
   {
+    "name": "Clive the Firestarter (Lost Soul)",
+    "region": "Firestarter",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Finn the Fisherman (Frost Tier 1)",
     "region": "Fisherman",
     "category": [
@@ -286,6 +372,15 @@
     "region": "Fisherman",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Finn the Fisherman (Lost Soul)",
+    "region": "Fisherman",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -339,6 +434,15 @@
     "requires": ""
   },
   {
+    "name": "Polora the Feywalker (Lost Soul)",
+    "region": "Feywalker",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Kodia the Ferocious Bear (Bear Form)",
     "region": "Ferocious Bear",
     "category": [
@@ -360,6 +464,15 @@
     "region": "Ferocious Bear",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kodia the Ferocious Bear (Lost Soul)",
+    "region": "Ferocious Bear",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -401,6 +514,15 @@
     "region": "The Fallen",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nicholaus the Fallen (Lost Soul)",
+    "region": "The Fallen",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -454,6 +576,15 @@
     "requires": ""
   },
   {
+    "name": "Quincey the Bandit King (Lost Soul)",
+    "region": "Bandit King",
+    "category": [
+      "Act 1 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Beatrice the Tailor (Veil of Blood)",
     "region": "Tailor",
     "category": [
@@ -502,6 +633,15 @@
     "requires": ""
   },
   {
+    "name": "Beatrice the Tailor (Lost Soul)",
+    "region": "Tailor",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Vincent the Frostbringer (Veil of Frost)",
     "region": "Frostbringer",
     "category": [
@@ -530,6 +670,15 @@
     "region": "Frostbringer",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Vincent the Frostbringer (Lost Soul)",
+    "region": "Frostbringer",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -566,6 +715,15 @@
     "requires": ""
   },
   {
+    "name": "Christina the Sun Priestess (Lost Soul)",
+    "region": "Sun Priestess",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Tristan the Vampire Hunter (Blood Tier 3)",
     "region": "Tristan",
     "category": [
@@ -598,6 +756,15 @@
     "requires": ""
   },
   {
+    "name": "Tristan the Vampire Hunter (Lost Soul)",
+    "region": "Tristan",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Sir Erwin the Gallant Cavalier (Storm Tier 1)",
     "region": "Gallant Cavalier",
     "category": [
@@ -618,6 +785,15 @@
     "region": "Gallant Cavalier",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sir Erwin the Gallant Cavalier (Lost Soul)",
+    "region": "Gallant Cavalier",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -654,6 +830,15 @@
     "requires": ""
   },
   {
+    "name": "Kriig the Undead General (Lost Soul)",
+    "region": "Undead General",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Leandra the Shadow Priestess (Unholy Tier 1)",
     "region": "Shadow Priestess",
     "category": [
@@ -682,6 +867,15 @@
     "region": "Shadow Priestess",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Leandra the Shadow Priestess (Lost Soul)",
+    "region": "Shadow Priestess",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -734,6 +928,15 @@
     "requires": ""
   },
   {
+    "name": "Maja the Dark Savant (Lost Soul)",
+    "region": "Dark Savant",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Bane the Shadowblade (Veil of Bones)",
     "region": "Shadowblade",
     "category": [
@@ -754,6 +957,15 @@
     "region": "Shadowblade",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bane the Shadowblade (Lost Soul)",
+    "region": "Shadowblade",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -790,6 +1002,15 @@
     "requires": ""
   },
   {
+    "name": "Grethel the Glassblower (Lost Soul)",
+    "region": "Glassblower",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Meredith the Bright Archer (Veil of Storm)",
     "region": "Bright Archer",
     "category": [
@@ -810,6 +1031,15 @@
     "region": "Bright Archer",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Meredith the Bright Archer (Lost Soul)",
+    "region": "Bright Archer",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -854,6 +1084,15 @@
     "requires": ""
   },
   {
+    "name": "Terah the Geomancer (Lost Soul)",
+    "region": "Geomancer",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "General Elena the Hollow (Frost Tier 2)",
     "region": "The Hollow",
     "category": [
@@ -890,6 +1129,15 @@
     "region": "The Hollow",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "General Elena the Hollow (Lost Soul)",
+    "region": "The Hollow",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -934,6 +1182,15 @@
     "requires": ""
   },
   {
+    "name": "Frostmaw the Mountain Terror (Lost Soul)",
+    "region": "Mountain Terror",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Gaius the Cursed Champion (Unholy Tier 1)",
     "region": "Cursed Champion",
     "category": [
@@ -966,6 +1223,15 @@
     "requires": ""
   },
   {
+    "name": "Gaius the Cursed Champion (Lost Soul)",
+    "region": "Cursed Champion",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "General Cassius the Betrayer (Unholy Tier 2)",
     "region": "The Betrayer",
     "category": [
@@ -994,6 +1260,15 @@
     "region": "The Betrayer",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "General Cassius the Betrayer (Lost Soul)",
+    "region": "The Betrayer",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1038,6 +1313,15 @@
     "requires": ""
   },
   {
+    "name": "Jade the Vampire Hunter (Lost Soul)",
+    "region": "Jade",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Raziel the Shepherd (Blood Tier 2)",
     "region": "Shepherd",
     "category": [
@@ -1058,6 +1342,15 @@
     "region": "Shepherd",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Raziel the Shepherd (Lost Soul)",
+    "region": "Shepherd",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1090,6 +1383,15 @@
     "region": "Militia Captain",
     "category": [
       "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Octavian the Militia Captain (Lost Soul)",
+    "region": "Shepherd",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1134,6 +1436,15 @@
     "requires": ""
   },
   {
+    "name": "Ziva the Engineer (Lost Soul)",
+    "region": "Engineer",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Domina the Blade Dancer (Storm Tier 2)",
     "region": "Blade Dancer",
     "category": [
@@ -1170,6 +1481,15 @@
     "region": "Blade Dancer",
     "category": [
       "Act 3 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Domina the Blade Dancer (Lost Soul)",
+    "region": "Blade Dancer",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1214,6 +1534,15 @@
     "requires": ""
   },
   {
+    "name": "Angram the Purifier (Lost Soul)",
+    "region": "Purifier",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Ungora the Spider Queen (Unholy Tier 3)",
     "region": "Spider Queen",
     "category": [
@@ -1246,6 +1575,15 @@
     "requires": ""
   },
   {
+    "name": "Ungora the Spider Queen (Lost Soul)",
+    "region": "Spider Queen",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Ben the Old Wanderer (Frost Tier 1)",
     "region": "Old Wanderer",
     "category": [
@@ -1266,6 +1604,15 @@
     "region": "Old Wanderer",
     "category": [
       "Act 3 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ben the Old Wanderer (Lost Soul)",
+    "region": "Old Wanderer",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1294,6 +1641,15 @@
     "requires": ""
   },
   {
+    "name": "Foulrot the Soultaker (Lost Soul)",
+    "region": "Soultaker",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Albert the Duke of Balaton (Toad Form)",
     "region": "Duke of Balaton",
     "category": [
@@ -1314,6 +1670,15 @@
     "region": "Duke of Balaton",
     "category": [
       "Act 3 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Albert the Duke of Balaton (Lost Soul)",
+    "region": "Duke of Balaton",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1358,6 +1723,15 @@
     "requires": ""
   },
   {
+    "name": "Willfred the Werewolf Chief (Lost Soul)",
+    "region": "Werewolf Chief",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Cyril the Cursed Smith (Veil of Illusion)",
     "region": "Cursed Smith",
     "category": [
@@ -1398,6 +1772,15 @@
     "requires": ""
   },
   {
+    "name": "Cyril the Cursed Smith (Lost Soul)",
+    "region": "Cursed Smith",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Sir Magnus the Overseer (Frost Tier 1)",
     "region": "Overseer",
     "category": [
@@ -1418,6 +1801,15 @@
     "region": "Overseer",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sir Magnus the Overseer (Lost Soul)",
+    "region": "Overseer",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1462,6 +1854,15 @@
     "requires": ""
   },
   {
+    "name": "Baron du Bouchon the Sommelier (Lost Soul)",
+    "region": "Sommelier",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Morian the Stormwing Matriarch (Chaos Tier 1)",
     "region": "Stormwing Matriarch",
     "category": [
@@ -1474,6 +1875,15 @@
     "region": "Stormwing Matriarch",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morian the Stormwing Matriarch (Lost Soul)",
+    "region": "Stormwing Matriarch",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1506,6 +1916,15 @@
     "region": "Elementalist",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mairwyn the Elementalist (Lost Soul)",
+    "region": "Elementalist",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1550,6 +1969,15 @@
     "requires": ""
   },
   {
+    "name": "Henry Blackbrew the Doctor (Lost Soul)",
+    "region": "Doctor",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Jakira the Shadow Huntress (Illusion Tier 2)",
     "region": "Shadow Huntress",
     "category": [
@@ -1578,6 +2006,15 @@
     "region": "Shadow Huntress",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jakira the Shadow Huntress (Lost Soul)",
+    "region": "Shadow Huntress",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1614,6 +2051,15 @@
     "requires": ""
   },
   {
+    "name": "Stavros the Carver (Lost Soul)",
+    "region": "Carver",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Lucile the Venom Alchemist (Blood Tier 2)",
     "region": "Venom Alchemist",
     "category": [
@@ -1634,6 +2080,15 @@
     "region": "Venom Alchemist",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lucile the Venom Alchemist (Lost Soul)",
+    "region": "Venom Alchemist",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1670,6 +2125,15 @@
     "requires": ""
   },
   {
+    "name": "Matka the Curse Weaver (Lost Soul)",
+    "region": "Curse Weaver",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Terrorclaw the Ogre (Frost Tier 3)",
     "region": "Ogre",
     "category": [
@@ -1682,6 +2146,15 @@
     "region": "Ogre",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Terrorclaw the Ogre (Lost Soul)",
+    "region": "Ogre",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1706,6 +2179,15 @@
     "region": "Sunbringer",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Azariel the Sunbringer (Lost Soul)",
+    "region": "Sunbringer",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1742,6 +2224,15 @@
     "requires": ""
   },
   {
+    "name": "Voltatia the Power Master (Lost Soul)",
+    "region": "Power Master",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Simon Belmont the Vampire Hunter (Passive Slot)",
     "region": "Simon Belmont",
     "category": [
@@ -1754,6 +2245,15 @@
     "region": "Simon Belmont",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Simon Belmont the Vampire Hunter (Lost Soul)",
+    "region": "Simon Belmont",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1782,6 +2282,15 @@
     "requires": ""
   },
   {
+    "name": "Dantos the Forgebinder (Lost Soul)",
+    "region": "Forgebinder",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Lord Styx the Night Champion (Bat Form)",
     "region": "Night Champion",
     "category": [
@@ -1802,6 +2311,15 @@
     "region": "Night Champion",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lord Styx the Night Champion (Lost Soul)",
+    "region": "Night Champion",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1830,6 +2348,15 @@
     "requires": ""
   },
   {
+    "name": "General Valencia the Depraved (Lost Soul)",
+    "region": "The Depraved",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Gorecrusher the Behemoth (Illusion Tier 3)",
     "region": "Behemoth",
     "category": [
@@ -1854,6 +2381,15 @@
     "requires": ""
   },
   {
+    "name": "Gorecrusher the Behemoth (Lost Soul)",
+    "region": "Behemoth",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Solarus the Immaculate (Pedestal of Solarus)",
     "region": "The Immaculate",
     "category": [
@@ -1866,6 +2402,15 @@
     "region": "The Immaculate",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Solarus the Immaculate (Lost Soul)",
+    "region": "The Immaculate",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1886,6 +2431,15 @@
     "requires": ""
   },
   {
+    "name": "Talzur the Winged Horror (Lost Soul)",
+    "region": "Winged Horror",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Adam the Firstborn (Pedestal of the Monster)",
     "region": "Firstborn",
     "category": [
@@ -1898,6 +2452,15 @@
     "region": "Firstborn",
     "category": [
       "Act 4 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Adam the Firstborn (Lost Soul)",
+    "region": "Firstborn",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "requires": ""
   },
@@ -1918,12 +2481,39 @@
     "requires": ""
   },
   {
+    "name": "Megara the Serpent Queen (Lost Soul)",
+    "region": "Serpent Queen",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
     "region": "Immortal King",
     "category": [
       "Act 5 Boss"
     ],
     "requires": ""
+  },
+  {
+    "name": "Dracula the Immortal King (Lost Soul)",
+    "region": "Immortal King",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Journal - Woke up from Coffin",
+    "region": "Journal",
+    "category": [
+      "Journal"
+    ],
+    "requires": "",
+    "sort-key": "row-0-0"
   },
   {
     "name": "Journal - Collecting the Remains",
@@ -2109,7 +2699,8 @@
     "name": "Journal - Broaden Horizons",
     "region": "J6",
     "category": [
-      "Journal"
+      "Journal",
+      "Act2"
     ],
     "requires": "",
     "sort-key": "row-2-1"
@@ -2118,7 +2709,8 @@
     "name": "Journal - Blood on Tap",
     "region": "J7",
     "category": [
-      "Journal"
+      "Journal",
+      "Act2"
     ],
     "requires": "",
     "sort-key": "row-2-2"
@@ -2127,7 +2719,8 @@
     "name": "Journal - Throne of Command",
     "region": "J7",
     "category": [
-      "Journal"
+      "Journal",
+      "Act2"
     ],
     "requires": "",
     "sort-key": "row-2-3"
@@ -2136,7 +2729,8 @@
     "name": "Journal - Treasure Chamber",
     "region": "J8",
     "category": [
-      "Journal"
+      "Journal",
+      "Act2"
     ],
     "requires": "",
     "sort-key": "row-2-4"
@@ -2145,7 +2739,8 @@
     "name": "Journal - Reign Supreme",
     "region": "J9",
     "category": [
-      "Journal"
+      "Journal",
+      "Act2"
     ],
     "requires": "",
     "sort-key": "row-2-5"
@@ -2154,7 +2749,8 @@
     "name": "Journal - An Eye into Mortium",
     "region": "J10",
     "category": [
-      "Journal"
+      "Journal",
+      "Act2"
     ],
     "requires": "",
     "sort-key": "row-2-6"
@@ -2163,7 +2759,8 @@
     "name": "Journal - A Castle reaching the Sky",
     "region": "J11",
     "category": [
-      "Journal"
+      "Journal",
+      "Act3"
     ],
     "requires": "",
     "sort-key": "row-2-7"
@@ -2172,7 +2769,8 @@
     "name": "Journal - Nightfall Steed",
     "region": "J11",
     "category": [
-      "Journal"
+      "Journal",
+      "Act3"
     ],
     "requires": "",
     "sort-key": "row-2-8"
@@ -2181,7 +2779,8 @@
     "name": "Journal - Vampire Empire",
     "region": "J12",
     "category": [
-      "Journal"
+      "Journal",
+      "Act4"
     ],
     "requires": "",
     "sort-key": "row-2-9"
@@ -2190,7 +2789,8 @@
     "name": "Journal - Soul Stones",
     "region": "J13",
     "category": [
-      "Journal"
+      "Journal",
+      "Act4"
     ],
     "requires": "",
     "sort-key": "row-3-0"
@@ -2199,7 +2799,8 @@
     "name": "Journal - Lord of the Night",
     "region": "J14",
     "category": [
-      "Journal"
+      "Journal",
+      "Act4"
     ],
     "requires": "",
     "sort-key": "row-3-1"
@@ -3040,7 +3641,8 @@
     "name": "Discover Dracula's Castle",
     "region": "Night Champion",
     "category": [
-      "Exploration - Ruins of Mortium"
+      "Exploration - Ruins of Mortium",
+      "Act4"
     ],
     "requires": ""
   },
@@ -3048,7 +3650,8 @@
     "name": "Discover The Shadow Realm",
     "region": "Night Champion",
     "category": [
-      "Exploration - Ruins of Mortium"
+      "Exploration - Ruins of Mortium",
+      "Act4"
     ],
     "requires": ""
   },
@@ -3056,7 +3659,8 @@
     "name": "Complete a Tier 1 Rift Incursion",
     "region": "Old Wanderer",
     "category": [
-      "Exploration - Ruins of Mortium"
+      "Exploration - Ruins of Mortium",
+      "Act3"
     ],
     "requires": "|Mortium Rifts|"
   },
@@ -3064,7 +3668,8 @@
     "name": "Complete a Tier 2 Rift Incursion",
     "region": "Sunbringer",
     "category": [
-      "Exploration - Ruins of Mortium"
+      "Exploration - Ruins of Mortium",
+      "Act4"
     ],
     "requires": "|Mortium Rifts|"
   },
@@ -3620,7 +4225,8 @@
     "name": "Study - Learn Merciless Iron Slashers",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "Act4"
     ],
     "requires": "|Progressive Slashers|"
   },
@@ -3628,7 +4234,8 @@
     "name": "Study - Learn Merciless Iron Whip",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "Act3"
     ],
     "requires": "|Progressive Whip|"
   },
@@ -4465,7 +5072,8 @@
     "name": "Progressive Sword 3 (Iron Sword)",
     "region": "General",
     "category": [
-      "Weapons - Swords"
+      "Weapons - Swords",
+      "Act2"
     ],
     "requires": "|Progressive Sword:3|",
     "place_item": [ "Iron Sword" ]
@@ -4474,7 +5082,8 @@
     "name": "Progressive Sword 3 (Merciless Iron Sword)",
     "region": "General",
     "category": [
-      "Weapons - Swords"
+      "Weapons - Swords",
+      "Act2"
     ],
     "requires": "|Progressive Sword:3|",
     "place_item": [ "Merciless Iron Sword" ]
@@ -4483,7 +5092,8 @@
     "name": "Progressive Sword 4 (Rare Ancestral Sword)",
     "region": "General",
     "category": [
-      "Weapons - Swords"
+      "Weapons - Swords",
+      "Act3"
     ],
     "requires": "|Progressive Sword:4|",
     "place_item": [ "Rare Ancestral Sword" ]
@@ -4492,7 +5102,8 @@
     "name": "Progressive Sword 5 (Dark Silver Sword)",
     "region": "General",
     "category": [
-      "Weapons - Swords"
+      "Weapons - Swords",
+      "Act4"
     ],
     "requires": "|Progressive Sword:5|",
     "place_item": [ "Dark Silver Sword" ]
@@ -4501,7 +5112,8 @@
     "name": "Progressive Sword 6 (Sanguine Sword)",
     "region": "General",
     "category": [
-      "Weapons - Swords"
+      "Weapons - Swords",
+      "Act4"
     ],
     "requires": "|Progressive Sword:6|",
     "place_item": [ "Sanguine Sword" ]
@@ -4510,7 +5122,8 @@
     "name": "Progressive Sword 7 (Epic Ancestral Sword)",
     "region": "General",
     "category": [
-      "Weapons - Swords"
+      "Weapons - Swords",
+      "Act4"
     ],
     "requires": "|Progressive Sword:7|",
     "place_item": [ "Epic Ancestral Sword" ]
@@ -4519,7 +5132,8 @@
     "name": "Progressive Sword 8 (The Gravecaller)",
     "region": "General",
     "category": [
-      "Weapons - Swords"
+      "Weapons - Swords",
+      "Act4"
     ],
     "requires": "|Progressive Sword:8|",
     "place_item": [ "The Gravecaller" ]
@@ -4564,7 +5178,8 @@
     "name": "Progressive Axes 3 (Iron Axes)",
     "region": "General",
     "category": [
-      "Weapons - Axes"
+      "Weapons - Axes",
+      "Act2"
     ],
     "requires": "|Progressive Axes:3|",
     "place_item": [ "Iron Axes" ]
@@ -4573,7 +5188,8 @@
     "name": "Progressive Axes 3 (Merciless Iron Axes)",
     "region": "General",
     "category": [
-      "Weapons - Axes"
+      "Weapons - Axes",
+      "Act2"
     ],
     "requires": "|Progressive Axes:3|",
     "place_item": [ "Merciless Iron Axes" ]
@@ -4582,7 +5198,8 @@
     "name": "Progressive Axes 4 (Rare Ancestral Axes)",
     "region": "General",
     "category": [
-      "Weapons - Axes"
+      "Weapons - Axes",
+      "Act3"
     ],
     "requires": "|Progressive Axes:4|",
     "place_item": [ "Rare Ancestral Axes" ]
@@ -4591,7 +5208,8 @@
     "name": "Progressive Axes 5 (Dark Silver Axes)",
     "region": "General",
     "category": [
-      "Weapons - Axes"
+      "Weapons - Axes",
+      "Act4"
     ],
     "requires": "|Progressive Axes:5|",
     "place_item": [ "Dark Silver Axes" ]
@@ -4600,7 +5218,8 @@
     "name": "Progressive Axes 6 (Sanguine Axes)",
     "region": "General",
     "category": [
-      "Weapons - Axes"
+      "Weapons - Axes",
+      "Act4"
     ],
     "requires": "|Progressive Axes:6|",
     "place_item": [ "Sanguine Axes" ]
@@ -4609,7 +5228,8 @@
     "name": "Progressive Axes 7 (Epic Ancestral Axes)",
     "region": "General",
     "category": [
-      "Weapons - Axes"
+      "Weapons - Axes",
+      "Act4"
     ],
     "requires": "|Progressive Axes:7|",
     "place_item": [ "Epic Ancestral Axes" ]
@@ -4618,7 +5238,8 @@
     "name": "Progressive Axes 8 (The Red Twins)",
     "region": "General",
     "category": [
-      "Weapons - Axes"
+      "Weapons - Axes",
+      "Act4"
     ],
     "requires": "|Progressive Axes:8|",
     "place_item": [ "The Red Twins" ]
@@ -4663,7 +5284,8 @@
     "name": "Progressive Mace 3 (Iron Mace)",
     "region": "General",
     "category": [
-      "Weapons - Maces"
+      "Weapons - Maces",
+      "Act2"
     ],
     "requires": "|Progressive Mace:3|",
     "place_item": [ "Iron Mace" ]
@@ -4672,7 +5294,8 @@
     "name": "Progressive Mace 3 (Merciless Iron Mace)",
     "region": "General",
     "category": [
-      "Weapons - Maces"
+      "Weapons - Maces",
+      "Act2"
     ],
     "requires": "|Progressive Mace:3|",
     "place_item": [ "Merciless Iron Mace" ]
@@ -4681,7 +5304,8 @@
     "name": "Progressive Mace 4 (Rare Ancestral Mace)",
     "region": "General",
     "category": [
-      "Weapons - Maces"
+      "Weapons - Maces",
+      "Act3"
     ],
     "requires": "|Progressive Mace:4|",
     "place_item": [ "Rare Ancestral Mace" ]
@@ -4690,7 +5314,8 @@
     "name": "Progressive Mace 5 (Dark Silver Mace)",
     "region": "General",
     "category": [
-      "Weapons - Maces"
+      "Weapons - Maces",
+      "Act4"
     ],
     "requires": "|Progressive Mace:5|",
     "place_item": [ "Dark Silver Mace" ]
@@ -4699,7 +5324,8 @@
     "name": "Progressive Mace 6 (Sanguine Mace)",
     "region": "General",
     "category": [
-      "Weapons - Maces"
+      "Weapons - Maces",
+      "Act4"
     ],
     "requires": "|Progressive Mace:6|",
     "place_item": [ "Sanguine Mace" ]
@@ -4708,7 +5334,8 @@
     "name": "Progressive Mace 7 (Epic Ancestral Mace)",
     "region": "General",
     "category": [
-      "Weapons - Maces"
+      "Weapons - Maces",
+      "Act4"
     ],
     "requires": "|Progressive Mace:7|",
     "place_item": [ "Epic Ancestral Mace" ]
@@ -4717,7 +5344,8 @@
     "name": "Progressive Mace 8 (Hand of Winter)",
     "region": "General",
     "category": [
-      "Weapons - Maces"
+      "Weapons - Maces",
+      "Act4"
     ],
     "requires": "|Progressive Mace:8|",
     "place_item": [ "Hand of Winter" ]
@@ -4762,7 +5390,8 @@
     "name": "Progressive Spear 3 (Iron Spear)",
     "region": "General",
     "category": [
-      "Weapons - Spears"
+      "Weapons - Spears",
+      "Act2"
     ],
     "requires": "|Progressive Spear:3|",
     "place_item": [ "Iron Spear" ]
@@ -4771,7 +5400,8 @@
     "name": "Progressive Spear 3 (Merciless Iron Spear)",
     "region": "General",
     "category": [
-      "Weapons - Spears"
+      "Weapons - Spears",
+      "Act2"
     ],
     "requires": "|Progressive Spear:3|",
     "place_item": [ "Merciless Iron Spear" ]
@@ -4780,7 +5410,8 @@
     "name": "Progressive Spear 4 (Rare Ancestral Spear)",
     "region": "General",
     "category": [
-      "Weapons - Spears"
+      "Weapons - Spears",
+      "Act3"
     ],
     "requires": "|Progressive Spear:4|",
     "place_item": [ "Rare Ancestral Spear" ]
@@ -4789,7 +5420,8 @@
     "name": "Progressive Spear 5 (Dark Silver Spear)",
     "region": "General",
     "category": [
-      "Weapons - Spears"
+      "Weapons - Spears",
+      "Act4"
     ],
     "requires": "|Progressive Spear:5|",
     "place_item": [ "Dark Silver Spear" ]
@@ -4798,7 +5430,8 @@
     "name": "Progressive Spear 6 (Sanguine Spear)",
     "region": "General",
     "category": [
-      "Weapons - Spears"
+      "Weapons - Spears",
+      "Act4"
     ],
     "requires": "|Progressive Spear:6|",
     "place_item": [ "Sanguine Spear" ]
@@ -4807,7 +5440,8 @@
     "name": "Progressive Spear 7 (Epic Ancestral Spear)",
     "region": "General",
     "category": [
-      "Weapons - Spears"
+      "Weapons - Spears",
+      "Act4"
     ],
     "requires": "|Progressive Spear:7|",
     "place_item": [ "Epic Ancestral Spear" ]
@@ -4816,7 +5450,8 @@
     "name": "Progressive Spear 8 (The Thousand Storms)",
     "region": "General",
     "category": [
-      "Weapons - Spears"
+      "Weapons - Spears",
+      "Act4"
     ],
     "requires": "|Progressive Mace:8|",
     "place_item": [ "The Thousand Storms" ]
@@ -4825,7 +5460,8 @@
     "name": "Progressive Reaper 1 (Iron Reaper)",
     "region": "General",
     "category": [
-      "Weapons - Reapers"
+      "Weapons - Reapers",
+      "Act2"
     ],
     "requires": "|Progressive Reaper|",
     "place_item": [ "Iron Reaper" ]
@@ -4834,7 +5470,8 @@
     "name": "Progressive Reaper 1 (Merciless Iron Reaper)",
     "region": "General",
     "category": [
-      "Weapons - Reapers"
+      "Weapons - Reapers",
+      "Act2"
     ],
     "requires": "|Progressive Reaper|",
     "place_item": [ "Merciless Iron Reaper" ]
@@ -4843,7 +5480,8 @@
     "name": "Progressive Reaper 2 (Rare Ancestral Reaper)",
     "region": "General",
     "category": [
-      "Weapons - Reapers"
+      "Weapons - Reapers",
+      "Act3"
     ],
     "requires": "|Progressive Reaper:2|",
     "place_item": [ "Rare Ancestral Reaper" ]
@@ -4852,7 +5490,8 @@
     "name": "Progressive Reaper 3 (Dark Silver Reaper)",
     "region": "General",
     "category": [
-      "Weapons - Reapers"
+      "Weapons - Reapers",
+      "Act4"
     ],
     "requires": "|Progressive Reaper:3|",
     "place_item": [ "Dark Silver Reaper" ]
@@ -4861,7 +5500,8 @@
     "name": "Progressive Reaper 4 (Sanguine Reaper)",
     "region": "General",
     "category": [
-      "Weapons - Reapers"
+      "Weapons - Reapers",
+      "Act4"
     ],
     "requires": "|Progressive Reaper:4|",
     "place_item": [ "Sanguine Reaper" ]
@@ -4870,7 +5510,8 @@
     "name": "Progressive Reaper 5 (Epic Ancestral Reaper)",
     "region": "General",
     "category": [
-      "Weapons - Reapers"
+      "Weapons - Reapers",
+      "Act4"
     ],
     "requires": "|Progressive Reaper:5|",
     "place_item": [ "Epic Ancestral Reaper" ]
@@ -4879,7 +5520,8 @@
     "name": "Progressive Reaper 6 (Mortira's Lament)",
     "region": "General",
     "category": [
-      "Weapons - Reapers"
+      "Weapons - Reapers",
+      "Act4"
     ],
     "requires": "|Progressive Reaper:6|",
     "place_item": [ "Mortira's Lament" ]
@@ -4888,7 +5530,8 @@
     "name": "Progressive Greatsword 1 (Iron Greatsword)",
     "region": "General",
     "category": [
-      "Weapons - Greatswords"
+      "Weapons - Greatswords",
+      "Act2"
     ],
     "requires": "|Progressive Greatsword|",
     "place_item": [ "Iron Greatsword" ]
@@ -4897,7 +5540,8 @@
     "name": "Progressive Greatsword 1 (Merciless Iron Greatsword)",
     "region": "General",
     "category": [
-      "Weapons - Greatswords"
+      "Weapons - Greatswords",
+      "Act2"
     ],
     "requires": "|Progressive Greatsword|",
     "place_item": [ "Merciless Iron Greatsword" ]
@@ -4906,7 +5550,8 @@
     "name": "Progressive Greatsword 2 (Rare Ancestral Greatsword)",
     "region": "General",
     "category": [
-      "Weapons - Greatswords"
+      "Weapons - Greatswords",
+      "Act3"
     ],
     "requires": "|Progressive Greatsword:2|",
     "place_item": [ "Rare Ancestral Greatsword" ]
@@ -4915,7 +5560,8 @@
     "name": "Progressive Greatsword 3 (Dark Silver Greatsword)",
     "region": "General",
     "category": [
-      "Weapons - Greatswords"
+      "Weapons - Greatswords",
+      "Act4"
     ],
     "requires": "|Progressive Greatsword:3|",
     "place_item": [ "Dark Silver Greatsword" ]
@@ -4924,7 +5570,8 @@
     "name": "Progressive Greatsword 4 (Sanguine Greatsword)",
     "region": "General",
     "category": [
-      "Weapons - Greatswords"
+      "Weapons - Greatswords",
+      "Act4"
     ],
     "requires": "|Progressive Greatsword:4|",
     "place_item": [ "Sanguine Greatsword" ]
@@ -4933,7 +5580,8 @@
     "name": "Progressive Greatsword 5 (Epic Ancestral Greatsword)",
     "region": "General",
     "category": [
-      "Weapons - Greatswords"
+      "Weapons - Greatswords",
+      "Act4"
     ],
     "requires": "|Progressive Greatsword:5|",
     "place_item": [ "Epic Ancestral Greatsword" ]
@@ -4942,7 +5590,8 @@
     "name": "Progressive Greatsword 6 (Apocalypse)",
     "region": "General",
     "category": [
-      "Weapons - Greatswords"
+      "Weapons - Greatswords",
+      "Act4"
     ],
     "requires": "|Progressive Greatsword:6|",
     "place_item": [ "Apocalypse" ]
@@ -4951,7 +5600,8 @@
     "name": "Progressive Whip 1 (Iron Whip)",
     "region": "General",
     "category": [
-      "Weapons - Whips"
+      "Weapons - Whips",
+      "Act3"
     ],
     "requires": "|Progressive Whip|",
     "place_item": [ "Iron Whip" ]
@@ -4960,7 +5610,8 @@
     "name": "Progressive Whip 1 (Merciless Iron Whip)",
     "region": "General",
     "category": [
-      "Weapons - Whips"
+      "Weapons - Whips",
+      "Act3"
     ],
     "requires": "|Progressive Whip|",
     "place_item": [ "Merciless Iron Whip" ]
@@ -4969,7 +5620,8 @@
     "name": "Progressive Whip 2 (Rare Ancestral Whip)",
     "region": "General",
     "category": [
-      "Weapons - Whips"
+      "Weapons - Whips",
+      "Act3"
     ],
     "requires": "|Progressive Whip:2|",
     "place_item": [ "Rare Ancestral Whip" ]
@@ -4978,7 +5630,8 @@
     "name": "Progressive Whip 3 (Dark Silver Whip)",
     "region": "General",
     "category": [
-      "Weapons - Whips"
+      "Weapons - Whips",
+      "Act4"
     ],
     "requires": "|Progressive Whip:3|",
     "place_item": [ "Dark Silver Whip" ]
@@ -4987,7 +5640,8 @@
     "name": "Progressive Whip 4 (Sanguine Whip)",
     "region": "General",
     "category": [
-      "Weapons - Whips"
+      "Weapons - Whips",
+      "Act4"
     ],
     "requires": "|Progressive Whip:4|",
     "place_item": [ "Sanguine Whip" ]
@@ -4996,7 +5650,8 @@
     "name": "Progressive Whip 5 (Epic Ancestral Whip)",
     "region": "General",
     "category": [
-      "Weapons - Whips"
+      "Weapons - Whips",
+      "Act4"
     ],
     "requires": "|Progressive Whip:5|",
     "place_item": [ "Epic Ancestral Whip" ]
@@ -5005,7 +5660,8 @@
     "name": "Progressive Whip 6 (The Morning Star)",
     "region": "General",
     "category": [
-      "Weapons - Whips"
+      "Weapons - Whips",
+      "Act4"
     ],
     "requires": "|Progressive Whip:6|",
     "place_item": [ "The Morning Star" ]
@@ -5014,7 +5670,8 @@
     "name": "Progressive Slashers 1 (Iron Slashers)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers|",
     "place_item": [ "Iron Slashers" ]
@@ -5023,7 +5680,8 @@
     "name": "Progressive Slashers 1 (Merciless Iron Slashers)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers|",
     "place_item": [ "Merciless Iron Slashers" ]
@@ -5032,7 +5690,8 @@
     "name": "Progressive Slashers 2 (Rare Ancestral Slashers)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers:2|",
     "place_item": [ "Rare Ancestral Slashers" ]
@@ -5041,7 +5700,8 @@
     "name": "Progressive Slashers 3 (Dark Silver Whip)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers:3|",
     "place_item": [ "Dark Silver Slashers" ]
@@ -5050,7 +5710,8 @@
     "name": "Progressive Slashers 4 (Sanguine Slashers)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers:4|",
     "place_item": [ "Sanguine Slashers" ]
@@ -5059,7 +5720,8 @@
     "name": "Progressive Slashers 5 (Epic Ancestral Slashers)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers:5|",
     "place_item": [ "Epic Ancestral Slashers" ]
@@ -5068,7 +5730,8 @@
     "name": "Progressive Slashers 6 (Cloud Dancers)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers:6|",
     "place_item": [ "Cloud Dancers" ]
@@ -5077,7 +5740,8 @@
     "name": "Progressive Slashers 6 (Wings of the Fallen)",
     "region": "General",
     "category": [
-      "Weapons - Slashers"
+      "Weapons - Slashers",
+      "Act4"
     ],
     "requires": "|Progressive Slashers:6|",
     "place_item": [ "Wings of the Fallen" ]
@@ -5086,7 +5750,8 @@
     "name": "Progressive Claws 1 (Iron Claws)",
     "region": "General",
     "category": [
-      "Weapons - Claws"
+      "Weapons - Claws",
+      "Act2"
     ],
     "requires": "|Progressive Claws|",
     "place_item": [ "Iron Claws" ]
@@ -5095,7 +5760,8 @@
     "name": "Progressive Claws 1 (Merciless Iron Claws)",
     "region": "General",
     "category": [
-      "Weapons - Claws"
+      "Weapons - Claws",
+      "Act2"
     ],
     "requires": "|Progressive Claws|",
     "place_item": [ "Merciless Iron Claws" ]
@@ -5104,7 +5770,8 @@
     "name": "Progressive Claws 2 (Rare Ancestral Claws)",
     "region": "General",
     "category": [
-      "Weapons - Claws"
+      "Weapons - Claws",
+      "Act3"
     ],
     "requires": "|Progressive Claws:2|",
     "place_item": [ "Rare Ancestral Claws" ]
@@ -5113,7 +5780,8 @@
     "name": "Progressive Claws 3 (Dark Silver Claws)",
     "region": "General",
     "category": [
-      "Weapons - Claws"
+      "Weapons - Claws",
+      "Act4"
     ],
     "requires": "|Progressive Claws:3|",
     "place_item": [ "Dark Silver Claws" ]
@@ -5122,7 +5790,8 @@
     "name": "Progressive Claws 4 (Sanguine Claws)",
     "region": "General",
     "category": [
-      "Weapons - Claws"
+      "Weapons - Claws",
+      "Act4"
     ],
     "requires": "|Progressive Claws:4|",
     "place_item": [ "Sanguine Claws" ]
@@ -5131,7 +5800,8 @@
     "name": "Progressive Claws 5 (Epic Ancestral Claws)",
     "region": "General",
     "category": [
-      "Weapons - Claws"
+      "Weapons - Claws",
+      "Act4"
     ],
     "requires": "|Progressive Claws:5|",
     "place_item": [ "Epic Ancestral Claws" ]
@@ -5140,7 +5810,8 @@
     "name": "Progressive Claws 6 (Talons of the Lich Beast)",
     "region": "General",
     "category": [
-      "Weapons - Claws"
+      "Weapons - Claws",
+      "Act4"
     ],
     "requires": "|Progressive Claws:6|",
     "place_item": [ "Talons of the Lich Beast" ]
@@ -5149,7 +5820,8 @@
     "name": "Progressive Twinblade 1 (Iron Twinblade)",
     "region": "General",
     "category": [
-      "Weapons - Twinblades"
+      "Weapons - Twinblades",
+      "Act2"
     ],
     "requires": "|Progressive Twinblade|",
     "place_item": [ "Iron Twinblade" ]
@@ -5158,7 +5830,8 @@
     "name": "Progressive Twinblade 1 (Merciless Iron Twinblade)",
     "region": "General",
     "category": [
-      "Weapons - Twinblades"
+      "Weapons - Twinblades",
+      "Act2"
     ],
     "requires": "|Progressive Twinblade|",
     "place_item": [ "Merciless Iron Twinblade" ]
@@ -5167,7 +5840,8 @@
     "name": "Progressive Twinblade 2 (Rare Ancestral Twinblade)",
     "region": "General",
     "category": [
-      "Weapons - Twinblades"
+      "Weapons - Twinblades",
+      "Act3"
     ],
     "requires": "|Progressive Twinblade:2|",
     "place_item": [ "Rare Ancestral Twinblade" ]
@@ -5176,7 +5850,8 @@
     "name": "Progressive Twinblade 3 (Dark Silver Twinblade)",
     "region": "General",
     "category": [
-      "Weapons - Twinblades"
+      "Weapons - Twinblades",
+      "Act4"
     ],
     "requires": "|Progressive Twinblade:3|",
     "place_item": [ "Dark Silver Twinblade" ]
@@ -5185,7 +5860,8 @@
     "name": "Progressive Twinblade 4 (Sanguine Twinblade)",
     "region": "General",
     "category": [
-      "Weapons - Twinblades"
+      "Weapons - Twinblades",
+      "Act4"
     ],
     "requires": "|Progressive Twinblade:4|",
     "place_item": [ "Sanguine Twinblade" ]
@@ -5194,7 +5870,8 @@
     "name": "Progressive Twinblade 5 (Epic Ancestral Twinblade)",
     "region": "General",
     "category": [
-      "Weapons - Twinblades"
+      "Weapons - Twinblades",
+      "Act4"
     ],
     "requires": "|Progressive Twinblade:5|",
     "place_item": [ "Epic Ancestral Twinblade" ]
@@ -5203,7 +5880,8 @@
     "name": "Progressive Twinblade 6 (The Fate Dancers)",
     "region": "General",
     "category": [
-      "Weapons - Twinblades"
+      "Weapons - Twinblades",
+      "Act4"
     ],
     "requires": "|Progressive Twinblade:6|",
     "place_item": [ "The Fate Dancers" ]
@@ -5248,7 +5926,8 @@
     "name": "Progressive Crossbow 3 (Iron Crossbow)",
     "region": "General",
     "category": [
-      "Weapons - Crossbows"
+      "Weapons - Crossbows",
+      "Act2"
     ],
     "requires": "|Progressive Crossbow:3|",
     "place_item": [ "Iron Crossbow" ]
@@ -5257,7 +5936,8 @@
     "name": "Progressive Crossbow 3 (Merciless Iron Crossbow)",
     "region": "General",
     "category": [
-      "Weapons - Crossbows"
+      "Weapons - Crossbows",
+      "Act2"
     ],
     "requires": "|Progressive Crossbow:3|",
     "place_item": [ "Merciless Iron Crossbow" ]
@@ -5266,7 +5946,8 @@
     "name": "Progressive Crossbow 4 (Rare Ancestral Crossbow)",
     "region": "General",
     "category": [
-      "Weapons - Crossbows"
+      "Weapons - Crossbows",
+      "Act3"
     ],
     "requires": "|Progressive Crossbow:4|",
     "place_item": [ "Rare Ancestral Crossbow" ]
@@ -5275,7 +5956,8 @@
     "name": "Progressive Crossbow 5 (Dark Silver Crossbow)",
     "region": "General",
     "category": [
-      "Weapons - Crossbows"
+      "Weapons - Crossbows",
+      "Act4"
     ],
     "requires": "|Progressive Crossbow:5|",
     "place_item": [ "Dark Silver Crossbow" ]
@@ -5284,7 +5966,8 @@
     "name": "Progressive Crossbow 6 (Sanguine Crossbow)",
     "region": "General",
     "category": [
-      "Weapons - Crossbows"
+      "Weapons - Crossbows",
+      "Act4"
     ],
     "requires": "|Progressive Crossbow:6|",
     "place_item": [ "Sanguine Crossbow" ]
@@ -5293,7 +5976,8 @@
     "name": "Progressive Crossbow 7 (Epic Ancestral Crossbow)",
     "region": "General",
     "category": [
-      "Weapons - Crossbows"
+      "Weapons - Crossbows",
+      "Act4"
     ],
     "requires": "|Progressive Crossbow:7|",
     "place_item": [ "Epic Ancestral Crossbow" ]
@@ -5302,7 +5986,8 @@
     "name": "Progressive Crossbow 8 (The Siren's Wail)",
     "region": "General",
     "category": [
-      "Weapons - Crossbows"
+      "Weapons - Crossbows",
+      "Act4"
     ],
     "requires": "|Progressive Crossbow:8|",
     "place_item": [ "The Siren's Wail" ]
@@ -5329,7 +6014,8 @@
     "name": "Progressive Longbow 2 (Iron Longbow)",
     "region": "General",
     "category": [
-      "Weapons - Longbows"
+      "Weapons - Longbows",
+      "Act2"
     ],
     "requires": "|Progressive Crossbow:2|",
     "place_item": [ "Iron Longbow" ]
@@ -5338,7 +6024,8 @@
     "name": "Progressive Longbow 2 (Merciless Iron Longbow)",
     "region": "General",
     "category": [
-      "Weapons - Longbows"
+      "Weapons - Longbows",
+      "Act2"
     ],
     "requires": "|Progressive Longbow:2|",
     "place_item": [ "Merciless Iron Longbow" ]
@@ -5347,7 +6034,8 @@
     "name": "Progressive Longbow 3 (Rare Ancestral Longbow)",
     "region": "General",
     "category": [
-      "Weapons - Longbows"
+      "Weapons - Longbows",
+      "Act3"
     ],
     "requires": "|Progressive Longbow:3|",
     "place_item": [ "Rare Ancestral Longbow" ]
@@ -5356,7 +6044,8 @@
     "name": "Progressive Longbow 4 (Dark Silver Longbow)",
     "region": "General",
     "category": [
-      "Weapons - Longbows"
+      "Weapons - Longbows",
+      "Act4"
     ],
     "requires": "|Progressive Longbow:4|",
     "place_item": [ "Dark Silver Longbow" ]
@@ -5365,7 +6054,8 @@
     "name": "Progressive Longbow 5 (Sanguine Longbow)",
     "region": "General",
     "category": [
-      "Weapons - Longbows"
+      "Weapons - Longbows",
+      "Act4"
     ],
     "requires": "|Progressive Longbow:5|",
     "place_item": [ "Sanguine Longbow" ]
@@ -5374,7 +6064,8 @@
     "name": "Progressive Crossbow 6 (Epic Ancestral Longbow)",
     "region": "General",
     "category": [
-      "Weapons - Longbows"
+      "Weapons - Longbows",
+      "Act4"
     ],
     "requires": "|Progressive Longbow:6|",
     "place_item": [ "Epic Ancestral Longbow" ]
@@ -5383,7 +6074,8 @@
     "name": "Progressive Crossbow 7 (Oaksong)",
     "region": "General",
     "category": [
-      "Weapons - Longbow"
+      "Weapons - Longbow",
+      "Act4"
     ],
     "requires": "|Progressive Longbow:7|",
     "place_item": [ "Oaksong" ]
@@ -5392,7 +6084,8 @@
     "name": "Progressive Daggers 1 (Iron Daggers)",
     "region": "General",
     "category": [
-      "Weapons - Daggers"
+      "Weapons - Daggers",
+      "Act2"
     ],
     "requires": "|Progressive Daggers|",
     "place_item": [ "Iron Daggers" ]
@@ -5401,7 +6094,8 @@
     "name": "Progressive Daggers 1 (Merciless Iron Daggers)",
     "region": "General",
     "category": [
-      "Weapons - Daggers"
+      "Weapons - Daggers",
+      "Act2"
     ],
     "requires": "|Progressive Daggers|",
     "place_item": [ "Merciless Iron Daggers" ]
@@ -5410,7 +6104,8 @@
     "name": "Progressive Daggers 2 (Rare Ancestral Daggers)",
     "region": "General",
     "category": [
-      "Weapons - Daggers"
+      "Weapons - Daggers",
+      "Act3"
     ],
     "requires": "|Progressive Daggers:2|",
     "place_item": [ "Rare Ancestral Daggers" ]
@@ -5419,7 +6114,8 @@
     "name": "Progressive Daggers 3 (Dark Silver Daggers)",
     "region": "General",
     "category": [
-      "Weapons - Daggers"
+      "Weapons - Daggers",
+      "Act4"
     ],
     "requires": "|Progressive Daggers:3|",
     "place_item": [ "Dark Silver Daggers" ]
@@ -5428,7 +6124,8 @@
     "name": "Progressive Daggers 4 (Sanguine Daggers)",
     "region": "General",
     "category": [
-      "Weapons - Daggers"
+      "Weapons - Daggers",
+      "Act4"
     ],
     "requires": "|Progressive Daggers:4|",
     "place_item": [ "Sanguine Daggers" ]
@@ -5437,7 +6134,8 @@
     "name": "Progressive Daggers 5 (Epic Ancestral Daggers)",
     "region": "General",
     "category": [
-      "Weapons - Daggers"
+      "Weapons - Daggers",
+      "Act4"
     ],
     "requires": "|Progressive Daggers:5|",
     "place_item": [ "Epic Ancestral Daggers" ]
@@ -5446,7 +6144,8 @@
     "name": "Progressive Daggers 6 (The Wraithblades)",
     "region": "General",
     "category": [
-      "Weapons - Daggers"
+      "Weapons - Daggers",
+      "Act4"
     ],
     "requires": "|Progressive Daggers:6|",
     "place_item": [ "The Wraithblades" ]
@@ -5455,7 +6154,8 @@
     "name": "Progressive Pistols 1 (Iron Pistols)",
     "region": "General",
     "category": [
-      "Weapons - Pistols"
+      "Weapons - Pistols",
+      "Act2"
     ],
     "requires": "|Progressive Pistols|",
     "place_item": [ "Iron Pistols" ]
@@ -5464,7 +6164,8 @@
     "name": "Progressive Pistols 1 (Merciless Iron Pistols)",
     "region": "General",
     "category": [
-      "Weapons - Pistols"
+      "Weapons - Pistols",
+      "Act2"
     ],
     "requires": "|Progressive Pistols|",
     "place_item": [ "Merciless Iron Pistols" ]
@@ -5473,7 +6174,8 @@
     "name": "Progressive Pistols 2 (Rare Ancestral Pistols)",
     "region": "General",
     "category": [
-      "Weapons - Pistols"
+      "Weapons - Pistols",
+      "Act3"
     ],
     "requires": "|Progressive Pistols:2|",
     "place_item": [ "Rare Ancestral Pistols" ]
@@ -5482,7 +6184,8 @@
     "name": "Progressive Pistols 3 (Dark Silver Pistols)",
     "region": "General",
     "category": [
-      "Weapons - Pistols"
+      "Weapons - Pistols",
+      "Act4"
     ],
     "requires": "|Progressive Pistols:3|",
     "place_item": [ "Dark Silver Pistols" ]
@@ -5491,7 +6194,8 @@
     "name": "Progressive Pistols 4 (Sanguine Pistols)",
     "region": "General",
     "category": [
-      "Weapons - Pistols"
+      "Weapons - Pistols",
+      "Act4"
     ],
     "requires": "|Progressive Pistols:4|",
     "place_item": [ "Sanguine Pistols" ]
@@ -5500,7 +6204,8 @@
     "name": "Progressive Pistols 5 (Epic Ancestral Pistols)",
     "region": "General",
     "category": [
-      "Weapons - Pistols"
+      "Weapons - Pistols",
+      "Act4"
     ],
     "requires": "|Progressive Pistols:5|",
     "place_item": [ "Epic Ancestral Pistols" ]
@@ -5509,7 +6214,8 @@
     "name": "Progressive Pistols 6 (The Endbringers)",
     "region": "General",
     "category": [
-      "Weapons - Pistols"
+      "Weapons - Pistols",
+      "Act4"
     ],
     "requires": "|Progressive Pistols:6|",
     "place_item": [ "The Endbringers" ]
@@ -5550,7 +6256,8 @@
     "name": "Fished up a Sage Fish in Dunley Farmlands or Silverlight Hills",
     "region": "Dunley Farmlands",
     "category": [
-      "Fishing Locations"
+      "Fishing Locations",
+      "Act2"
     ],
     "requires": "|Finn Defeated|"
   },
@@ -5558,7 +6265,8 @@
     "name": "Fished up a Blood Snapper in the Cursed Forest",
     "region": "Cursed Forest",
     "category": [
-      "Fishing Locations"
+      "Fishing Locations",
+      "Act3"
     ],
     "requires": "|Finn Defeated|"
   },
@@ -5566,7 +6274,8 @@
     "name": "Fished up a Swamp Dweller in the Cursed Forest",
     "region": "Cursed Forest",
     "category": [
-      "Fishing Locations"
+      "Fishing Locations",
+      "Act3"
     ],
     "requires": "|Finn Defeated|"
   },
@@ -5574,7 +6283,8 @@
     "name": "Fished up a Golden River Bass in Silverlight Hills",
     "region": "Silverlight Hills",
     "category": [
-      "Fishing Locations"
+      "Fishing Locations",
+      "Act4"
     ],
     "requires": "|Finn Defeated|"
   },
@@ -5582,7 +6292,8 @@
     "name": "Fished up a Corrupted Fish in Oakveil Woodlands",
     "region": "Oakveil Woodlands",
     "category": [
-      "Fishing Locations"
+      "Fishing Locations",
+      "Act4"
     ],
     "requires": "|Finn Defeated|"
   },
@@ -5590,7 +6301,8 @@
     "name": "Fished up The Fish in the Cursed Forest or Brighthaven Docks",
     "region": "Cursed Forest",
     "category": [
-      "Fishing Locations"
+      "Fishing Locations",
+      "Act3"
     ],
     "requires": "|Finn Defeated|"
   },
@@ -5661,7 +6373,8 @@
     "name": "Achievement - Upon a Pale Horse",
     "region": "Dunley Farmlands",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act2"
     ],
     "requires": "",
     "hint_entrance": "Ride a horse."
@@ -5697,7 +6410,8 @@
     "name": "Achievement - Master of Disguise",
     "region": "Shadowblade",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act2"
     ],
     "requires": "",
     "hint_entrance": "Trade with a merchant as a very ordinary human."
@@ -5715,7 +6429,8 @@
     "name": "Achievement - Exquisite Blood",
     "region": "Gloomrot South",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act3"
     ],
     "requires": "",
     "hint_entrance": "Drink blood from a 100% blood quality source."
@@ -5760,7 +6475,8 @@
     "name": "Achievement - It's a Tight Squeeze",
     "region": "Silverlight Hills",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "|Nibbles Defeated|",
     "hint_entrance": "Use Rat Form and traverse through a small hole."
@@ -5769,7 +6485,8 @@
     "name": "Achievement - A Weapon From a More Civilized Age",
     "region": "General",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act3"
     ],
     "requires": "|Ancestral Weapon|",
     "hint_entrance": "Reforge a shattered weapon at the Ancestral Forge."
@@ -5778,7 +6495,8 @@
     "name": "Achievement - Riftslayer",
     "region": "Old Wanderer",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act3"
     ],
     "requires": "|Mortium Rifts|",
     "hint_entrance": "Participate in closing a rift to the Shadow Realm."
@@ -5787,7 +6505,8 @@
     "name": "Achievement - To the Skies",
     "region": "Night Champion",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "",
     "hint_entrance": "Find a way to fly."
@@ -5805,7 +6524,8 @@
     "name": "Achievement - A Fox in the Hen House",
     "region": "Dunley Farmlands",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act2"
     ],
     "requires": "",
     "hint_entrance": "Venture into the Dunley Farmlands area."
@@ -5814,7 +6534,8 @@
     "name": "Achievement - Footsteps in the Snow",
     "region": "Hallowed Mountains",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act2"
     ],
     "requires": "",
     "hint_entrance": "Venture into the Hallowed Mountains area."
@@ -5823,7 +6544,8 @@
     "name": "Achievement - The Forgotten Reaches",
     "region": "Ruins of Mortium",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act2"
     ],
     "requires": "",
     "hint_entrance": "Venture into the Ruins of Mortium area."
@@ -5832,7 +6554,8 @@
     "name": "Achievement - Don't Drink the Water",
     "region": "Gloomrot South",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act3"
     ],
     "requires": "",
     "hint_entrance": "Venture into the Gloomrot South area."
@@ -5841,7 +6564,8 @@
     "name": "Achievement - March of the Machines",
     "region": "Gloomrot North",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "",
     "hint_entrance": "Venture into the Gloomrot North area."
@@ -5850,7 +6574,8 @@
     "name": "Achievement - Forbidden Footsteps",
     "region": "Cursed Forest",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act3"
     ],
     "requires": "",
     "hint_entrance": "Venture into the Cursed Forest area."
@@ -5859,7 +6584,8 @@
     "name": "Achievement - Godless Intrusion",
     "region": "Silverlight Hills",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "",
     "hint_entrance": "Venture into the Silverlight area."
@@ -5868,7 +6594,8 @@
     "name": "Achievement - Every Corner of the World",
     "region": "Silverlight Hills",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "",
     "hint_entrance": "Venture to all major regions."
@@ -5886,7 +6613,8 @@
     "name": "Achievement - Collector of Forgotten Lore II",
     "region": "Study",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act2"
     ],
     "requires": "|@Knowledge - Study:all|",
     "hint_entrance": "Interact with a Study that has all technologies unlocked."
@@ -5895,7 +6623,8 @@
     "name": "Achievement - Collector of Forgotten Lore III",
     "region": "Athenaeum",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "|@Knowledge - Athenaeum:all|",
     "hint_entrance": "Interact with an Athenaeum that has all technologies unlocked."
@@ -5904,7 +6633,8 @@
     "name": "Achievement - An Eye for Quality",
     "region": "J5",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "|Cyril Defeated|",
     "hint_entrance": "Successfully charm a human that has 100% blood quality."
@@ -5913,7 +6643,8 @@
     "name": "Achievement - A Perfect Test Subject",
     "region": "General",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act3"
     ],
     "requires": "|Angram Defeated| AND |Clive Defeated|",
     "hint_entrance": "Feed a prisoner with Irradiant Gruel and have them reach 100% blood quality as a result."
@@ -5931,7 +6662,8 @@
     "name": "Achievement - Completed Act 2",
     "region": "Militia Captain",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act2"
     ],
     "requires": "",
     "hint_entrance": "Defeat Octavian the Militia Leader and complete Act II."
@@ -5940,7 +6672,8 @@
     "name": "Achievement - Completed Act 3",
     "region": "Cursed Smith",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act3"
     ],
     "requires": "",
     "hint_entrance": "Defeat Cyril the Cursed Smith and complete Act III."
@@ -5949,7 +6682,8 @@
     "name": "Achievement - Completed Act 4",
     "region": "The Immaculate",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "",
     "hint_entrance": "Defeat Solarus the Immaculate and complete Act IV."
@@ -5958,7 +6692,8 @@
     "name": "Achievement - Slayer of the Immortal King",
     "region": "Immortal King",
     "category": [
-      "Steam Achievements"
+      "Steam Achievements",
+      "Act4"
     ],
     "requires": "",
     "hint_entrance": "Defeat Dracula, the Immortal King."
@@ -5970,6 +6705,6 @@
     "category": [
       "Goal"
     ],
-    "requires": "(|Journal Finished| AND {YamlEnabled(Dracula_Goal)}) OR (|Quincey Defeated| AND {YamlEnabled(Act1_Goal)}) OR (|Octavian Defeated| AND {YamlEnabled(Act2_Goal)}) OR (|Cyril Defeated| AND {YamlEnabled(Act3_Goal)}) OR (|@VBlood:64| AND {YamlEnabled(DefeatThemAll_Goal)})"
+    "requires": "(|Journal Finished| AND {YamlEnabled(Dracula_Goal)}) OR (|Quincey Defeated| AND {YamlEnabled(Act1_Goal)}) OR (|Octavian Defeated| AND {YamlEnabled(Act2_Goal)}) OR (|Cyril Defeated| AND {YamlEnabled(Act3_Goal)}) OR (|@VBlood:64| AND {YamlEnabled(DefeatThemAll_Goal)}) OR ({YamlEnabled(Lost_Souls_Goal)} AND |@Lost Souls:ALL|)"
   }
 ]

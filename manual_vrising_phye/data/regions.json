@@ -183,7 +183,7 @@
       "Act 2",
       "Act 2 Alt"
     ],
-    "requires": "|Quincey the Bandit King| AND (|Clive the Firestarter| OR |Kodia the Ferocious Bear|)"
+    "requires": "|Quincey the Bandit King| AND (|Clive the Firestarter| OR |Kodia the Ferocious Bear|) AND |@EarlyBloodType|"
   },
   "Act 2": {
     "connects_to": [

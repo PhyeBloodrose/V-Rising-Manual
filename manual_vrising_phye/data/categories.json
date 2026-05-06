@@ -110,6 +110,9 @@
     "Tier 3 Gloves": {
         "hidden": true
     },
+    "EarlyBloodType": {
+        "hidden": true
+    },
     "Spell School Mastery": {
         "yaml_option": [ "Limit_Spell_School_Mastery" ]
     },
@@ -137,5 +140,81 @@
     },
     "Steam Achievements": {
         "yaml_option": [ "Steam_Achievements" ]
+    },
+    "LostSouls": {
+        "yaml_option": [ "Lost_Souls_Goal" ],
+        "hidden": true
+    },
+    "Act 2 - V Bloods": {
+        "yaml_option": [ "Act_2" ]
+    },
+    "Act 3 - V Bloods": {
+        "yaml_option": [ "Act_2", "Act_3" ]
+    },
+    "Act 4 - V Bloods": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Act 5 - V Blood": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Knowledge - Study": {
+        "yaml_option": [ "Act_2" ]
+    },
+    "Knowledge - Athenaeum": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Armour - Tier 2": {
+        "yaml_option": [ "Act_2" ]
+    },
+    "Armour - Tier 3": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Act 2 Bosses": {
+        "yaml_option": [ "Act_2" ]
+    },
+    "Act 3 Bosses": {
+        "yaml_option": [ "Act_2", "Act_3" ]
+    },
+    "Act 4 Bosses": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Act 5 Boss": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Exploration - Dunley Farmlands": {
+        "yaml_option": [ "Act_2" ]
+    },
+    "Exploration - Hallowed Mountains": {
+        "yaml_option": [ "Act_2" ]
+    },
+    "Exploration - Ruins of Mortium": {
+        "yaml_option": [ "Act_2" ]
+    },
+    "Exploration - Cursed Forest": {
+        "yaml_option": [ "Act_2", "Act_3" ]
+    },
+    "Exploration - Gloomrot South": {
+        "yaml_option": [ "Act_2", "Act_3" ]
+    },
+    "Exploration - Silverlight Hills": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Exploration - Gloomrot North": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Exploration - Oakveil Woodlands": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+    },
+    "Act2": {
+        "yaml_option": [ "Act_2" ],
+        "hidden": true
+    },
+    "Act3": {
+        "yaml_option": [ "Act_2", "Act_3" ],
+        "hidden": true
+    },
+    "Act4": {
+        "yaml_option": [ "Act_2", "Act_3", "Act_4" ],
+        "hidden": true
     }
 }
