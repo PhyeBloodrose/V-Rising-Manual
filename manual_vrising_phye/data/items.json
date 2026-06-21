@@ -1324,202 +1324,12 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Bone Sword",
-    "category": [
-      "Weapons - Swords"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Sword",
-    "category": [
-      "Weapons - Swords"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Sword",
-    "category": [
-      "Weapons - Swords"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Copper Sword",
-    "category": [
-      "Weapons - Swords"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Gravecaller",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": "8",
     "name": "Progressive Axes",
     "category": [
       "Progressive Weapons"
     ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Bone Axes",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Axes",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Axes",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Copper Axes",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Red Twins",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "8",
@@ -1530,202 +1340,12 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Bone Mace",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Mace",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Mace",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Copper Mace",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Hand of Winter",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": "8",
     "name": "Progressive Spear",
     "category": [
       "Progressive Weapons"
     ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Bone Spear",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Spear",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Spear",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Copper Spear",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Thousand Storms",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "6",
@@ -1737,69 +1357,6 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Iron Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Mortira's Lament",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": "6",
     "name": "Progressive Greatsword",
     "category": [
@@ -1807,69 +1364,6 @@
       "Act2"
     ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Apocalypse",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "6",
@@ -1881,69 +1375,6 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Iron Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Morning Star",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": "6",
     "name": "Progressive Slashers",
     "category": [
@@ -1951,78 +1382,6 @@
       "Act4"
     ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Cloud Dancers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Wings of the Fallen",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "6",
@@ -2034,69 +1393,6 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Iron Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Talons of the Lich Beast",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": "6",
     "name": "Progressive Twinblade",
     "category": [
@@ -2104,69 +1400,6 @@
       "Act2"
     ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Fate Dancers",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "8",
@@ -2177,186 +1410,12 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Bone Crossbow",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Crossbow",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Crossbow",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Copper Crossbow",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Siren's Wail",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": "7",
     "name": "Progressive Longbow",
     "category": [
       "Progressive Weapons"
     ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Longbow",
-    "category": [
-      "Weapons - Longbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Copper Longbow",
-    "category": [
-      "Weapons - Longbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Oaksong",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "6",
@@ -2368,69 +1427,6 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Iron Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Wraithblades",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": "6",
     "name": "Progressive Pistols",
     "category": [
@@ -2438,69 +1434,6 @@
       "Act2"
     ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Merciless Iron Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Endbringers",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "4",
@@ -3304,8 +2237,9 @@
     "count": "1",
     "name": "Fire Resistance Brew",
     "category": [
-      "Knowledge - Study",
-      "Consumables"
+        "Knowledge - Study",
+        "Consumables",
+        "Act2"
     ],
     "progression": true
   },
@@ -3313,8 +2247,9 @@
     "count": "1",
     "name": "Wrangler's Potion",
     "category": [
-      "Knowledge - Study",
-      "Consumables"
+        "Knowledge - Study",
+        "Consumables",
+        "Act2"
     ],
     "progression": true
   },
@@ -3322,8 +2257,9 @@
     "count": "1",
     "name": "Garlic Resistance Potion",
     "category": [
-      "Knowledge - Study",
-      "Consumables"
+        "Knowledge - Study",
+        "Consumables",
+        "Act2"
     ],
     "progression": true
   },
@@ -3331,9 +2267,10 @@
     "count": "1",
     "name": "Pendant of the Warrior",
     "category": [
-      "Knowledge - Study",
-      "Pendants",
-      "Jewelry - Magic"
+        "Knowledge - Study",
+        "Pendants",
+        "Jewelry - Magic",
+        "Act2"
     ],
     "progression": true
   },
@@ -3341,9 +2278,10 @@
     "count": "1",
     "name": "Pendant of the Sorcerer",
     "category": [
-      "Knowledge - Study",
-      "Pendants",
-      "Jewelry - Magic"
+        "Knowledge - Study",
+        "Pendants",
+        "Jewelry - Magic",
+        "Act2"
     ],
     "progression": true
   },
@@ -3351,9 +2289,10 @@
     "count": "1",
     "name": "Pendant of the Dawnrunner",
     "category": [
-      "Knowledge - Study",
-      "Pendants",
-      "Jewelry - Magic"
+        "Knowledge - Study",
+        "Pendants",
+        "Jewelry - Magic",
+        "Act2"
     ],
     "progression": true
   },
@@ -3361,9 +2300,10 @@
     "count": "1",
     "name": "Pendant of the Spellweaver",
     "category": [
-      "Knowledge - Study",
-      "Pendants",
-      "Jewelry - Magic"
+        "Knowledge - Study",
+        "Pendants",
+        "Jewelry - Magic",
+        "Act2"
     ],
     "progression": true
   },
@@ -3371,9 +2311,10 @@
     "count": "1",
     "name": "Pendant of the Warlock",
     "category": [
-      "Knowledge - Study",
-      "Pendants",
-      "Jewelry - Magic"
+        "Knowledge - Study",
+        "Pendants",
+        "Jewelry - Magic",
+        "Act2"
     ],
     "progression": true
   },
@@ -3381,9 +2322,10 @@
     "count": "1",
     "name": "Pendant of the Duskwatcher",
     "category": [
-      "Knowledge - Study",
-      "Pendants",
-      "Jewelry - Magic"
+        "Knowledge - Study",
+        "Pendants",
+        "Jewelry - Magic",
+        "Act2"
     ],
     "progression": true
   },
@@ -3391,10 +2333,11 @@
     "count": "1",
     "name": "Duskwatcher Chestguard",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Duskwatcher Set",
-      "Tier 2 Body"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Duskwatcher Set",
+        "Tier 2 Body",
+        "Act2"
     ],
     "progression": true
   },
@@ -3402,10 +2345,11 @@
     "count": "1",
     "name": "Duskwatcher Leggings",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Duskwatcher Set",
-      "Tier 2 Legs"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Duskwatcher Set",
+        "Tier 2 Legs",
+        "Act2"
     ],
     "progression": true
   },
@@ -3413,10 +2357,11 @@
     "count": "1",
     "name": "Duskwatcher Boots",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Duskwatcher Set",
-      "Tier 2 Boots"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Duskwatcher Set",
+        "Tier 2 Boots",
+        "Act2"
     ],
     "progression": true
   },
@@ -3424,10 +2369,11 @@
     "count": "1",
     "name": "Duskwatcher Gloves",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Duskwatcher Set",
-      "Tier 2 Gloves"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Duskwatcher Set",
+        "Tier 2 Gloves",
+        "Act2"
     ],
     "progression": true
   },
@@ -3435,10 +2381,11 @@
     "count": "1",
     "name": "Crimson Templar Chestguard",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Crimson Templar Set",
-      "Tier 2 Body"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Crimson Templar Set",
+        "Tier 2 Body",
+        "Act2"
     ],
     "progression": true
   },
@@ -3446,10 +2393,11 @@
     "count": "1",
     "name": "Crimson Templar Leggings",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Crimson Templar Set",
-      "Tier 2 Legs"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Crimson Templar Set",
+        "Tier 2 Legs",
+        "Act2"
     ],
     "progression": true
   },
@@ -3457,10 +2405,11 @@
     "count": "1",
     "name": "Crimson Templar Boots",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Crimson Templar Set",
-      "Tier 2 Boots"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Crimson Templar Set",
+        "Tier 2 Boots",
+        "Act2"
     ],
     "progression": true
   },
@@ -3468,10 +2417,11 @@
     "count": "1",
     "name": "Crimson Templar Gloves",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Crimson Templar Set",
-      "Tier 2 Gloves"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Crimson Templar Set",
+        "Tier 2 Gloves",
+        "Act2"
     ],
     "progression": true
   },
@@ -3479,10 +2429,11 @@
     "count": "1",
     "name": "Blood Hunter Chestguard",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Blood Hunter Set",
-      "Tier 2 Body"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Blood Hunter Set",
+        "Tier 2 Body",
+        "Act2"
     ],
     "progression": true
   },
@@ -3490,10 +2441,11 @@
     "count": "1",
     "name": "Blood Hunter Leggings",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Blood Hunter Set",
-      "Tier 2 Legs"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Blood Hunter Set",
+        "Tier 2 Legs",
+        "Act2"
     ],
     "progression": true
   },
@@ -3501,10 +2453,11 @@
     "count": "1",
     "name": "Blood Hunter Boots",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Blood Hunter Set",
-      "Tier 2 Boots"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Blood Hunter Set",
+        "Tier 2 Boots",
+        "Act2"
     ],
     "progression": true
   },
@@ -3512,10 +2465,11 @@
     "count": "1",
     "name": "Blood Hunter Gloves",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Blood Hunter Set",
-      "Tier 2 Gloves"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Blood Hunter Set",
+        "Tier 2 Gloves",
+        "Act2"
     ],
     "progression": true
   },
@@ -3523,10 +2477,11 @@
     "count": "1",
     "name": "Dark Magus Chestguard",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Dark Magus Set",
-      "Tier 2 Body"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Dark Magus Set",
+        "Tier 2 Body",
+        "Act2"
     ],
     "progression": true
   },
@@ -3534,10 +2489,11 @@
     "count": "1",
     "name": "Dark Magus Leggings",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Dark Magus Set",
-      "Tier 2 Legs"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Dark Magus Set",
+        "Tier 2 Legs",
+        "Act2"
     ],
     "progression": true
   },
@@ -3545,10 +2501,11 @@
     "count": "1",
     "name": "Dark Magus Boots",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Dark Magus Set",
-      "Tier 2 Boots"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Dark Magus Set",
+        "Tier 2 Boots",
+        "Act2"
     ],
     "progression": true
   },
@@ -3556,10 +2513,11 @@
     "count": "1",
     "name": "Dark Magus Gloves",
     "category": [
-      "Knowledge - Study",
-      "Armour - Tier 2",
-      "Dark Magus Set",
-      "Tier 2 Gloves"
+        "Knowledge - Study",
+        "Armour - Tier 2",
+        "Dark Magus Set",
+        "Tier 2 Gloves",
+        "Act2"
     ],
     "progression": true
   },
@@ -3567,8 +2525,9 @@
     "count": "1",
     "name": "Tailor's Flooring",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3576,8 +2535,9 @@
     "count": "1",
     "name": "Library Flooring",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3585,8 +2545,9 @@
     "count": "1",
     "name": "Assortment of Storage Lockers",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3594,8 +2555,9 @@
     "count": "1",
     "name": "Assortment of Fine Braziers",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3603,8 +2565,9 @@
     "count": "1",
     "name": "Assortment of Fine Candle Stands",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3612,8 +2575,9 @@
     "count": "1",
     "name": "Assortment of Castle Chairs",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3621,8 +2585,9 @@
     "count": "1",
     "name": "Fireplaces",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3630,8 +2595,9 @@
     "count": "1",
     "name": "Cobblestone Paths",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3639,8 +2605,9 @@
     "count": "1",
     "name": "Dux Carpet Collection",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3648,8 +2615,9 @@
     "count": "1",
     "name": "Noble Fences & Fountains",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3657,8 +2625,9 @@
     "count": "1",
     "name": "Fine Dining Table Collection",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3666,8 +2635,9 @@
     "count": "1",
     "name": "Hanging Lanterns",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3675,8 +2645,9 @@
     "count": "1",
     "name": "Banners",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3684,8 +2655,9 @@
     "count": "1",
     "name": "Modest Garden Planters",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3693,8 +2665,9 @@
     "count": "1",
     "name": "Garden Furniture and Lanterns",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3702,8 +2675,9 @@
     "count": "1",
     "name": "Prison Walls",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3711,8 +2685,9 @@
     "count": "1",
     "name": "Cordial Wall Panels",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3720,8 +2695,9 @@
     "count": "1",
     "name": "Assortment of Workshop Decorations",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3729,8 +2705,9 @@
     "count": "1",
     "name": "Assortment of Desks",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3738,8 +2715,9 @@
     "count": "1",
     "name": "Assortment of Desk Chairs",
     "category": [
-      "Knowledge - Study",
-      "Structures"
+        "Knowledge - Study",
+        "Structures",
+        "Act2"
     ],
     "progression": true
   },
@@ -3747,8 +2725,9 @@
     "count": "1",
     "name": "Potion of Rage",
     "category": [
-      "Knowledge - Athenaeum",
-      "Consumables"
+        "Knowledge - Athenaeum",
+        "Consumables",
+        "Act4"
     ],
     "progression": true
   },
@@ -3756,8 +2735,9 @@
     "count": "1",
     "name": "Witch Potion",
     "category": [
-      "Knowledge - Athenaeum",
-      "Consumables"
+        "Knowledge - Athenaeum",
+        "Consumables",
+        "Act4"
     ],
     "progression": true
   },
@@ -3765,9 +2745,10 @@
     "count": "1",
     "name": "Amulet of the Crimson Commander",
     "category": [
-      "Knowledge - Athenaeum",
-      "Amulets",
-      "Jewelry - Magic"
+        "Knowledge - Athenaeum",
+        "Amulets",
+        "Jewelry - Magic",
+        "Act4"
     ],
     "progression": true
   },
@@ -3775,9 +2756,10 @@
     "count": "1",
     "name": "Amulet of the Wicked Prophet",
     "category": [
-      "Knowledge - Athenaeum",
-      "Amulets",
-      "Jewelry - Magic"
+        "Knowledge - Athenaeum",
+        "Amulets",
+        "Jewelry - Magic",
+        "Act4"
     ],
     "progression": true
   },
@@ -3785,9 +2767,10 @@
     "count": "1",
     "name": "Amulet of the Unyielding Charger",
     "category": [
-      "Knowledge - Athenaeum",
-      "Amulets",
-      "Jewelry - Magic"
+        "Knowledge - Athenaeum",
+        "Amulets",
+        "Jewelry - Magic",
+        "Act4"
     ],
     "progression": true
   },
@@ -3795,9 +2778,10 @@
     "count": "1",
     "name": "Amulet of the Master Spellweaver",
     "category": [
-      "Knowledge - Athenaeum",
-      "Amulets",
-      "Jewelry - Magic"
+        "Knowledge - Athenaeum",
+        "Amulets",
+        "Jewelry - Magic",
+        "Act4"
     ],
     "progression": true
   },
@@ -3805,9 +2789,10 @@
     "count": "1",
     "name": "Amulet of the Arch-Warlock",
     "category": [
-      "Knowledge - Athenaeum",
-      "Amulets",
-      "Jewelry - Magic"
+        "Knowledge - Athenaeum",
+        "Amulets",
+        "Jewelry - Magic",
+        "Act4"
     ],
     "progression": true
   },
@@ -3815,9 +2800,10 @@
     "count": "1",
     "name": "Amulet of the Blademaster",
     "category": [
-      "Knowledge - Athenaeum",
-      "Amulets",
-      "Jewelry - Magic"
+        "Knowledge - Athenaeum",
+        "Amulets",
+        "Jewelry - Magic",
+        "Act4"
     ],
     "progression": true
   },
@@ -3825,9 +2811,10 @@
     "count": "1",
     "name": "Shadowmoon Chestguard",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Shadowmoon Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Shadowmoon Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3835,9 +2822,10 @@
     "count": "1",
     "name": "Shadowmoon Leggings",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Shadowmoon Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Shadowmoon Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3845,9 +2833,10 @@
     "count": "1",
     "name": "Shadowmoon Gloves",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Shadowmoon Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Shadowmoon Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3855,9 +2844,10 @@
     "count": "1",
     "name": "Shadowmoon Boots",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Shadowmoon Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Shadowmoon Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3865,9 +2855,10 @@
     "count": "1",
     "name": "Grim Knight Chestguard",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Grim Knight Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Grim Knight Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3875,9 +2866,10 @@
     "count": "1",
     "name": "Grim Knight Leggings",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Grim Knight Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Grim Knight Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3885,9 +2877,10 @@
     "count": "1",
     "name": "Grim Knight Gloves",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Grim Knight Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Grim Knight Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3895,9 +2888,10 @@
     "count": "1",
     "name": "Grim Knight Boots",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Grim Knight Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Grim Knight Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3905,9 +2899,10 @@
     "count": "1",
     "name": "Dread Plate Chestguard",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Dread Plate Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Dread Plate Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3915,9 +2910,10 @@
     "count": "1",
     "name": "Dread Plate Leggings",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Dread Plate Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Dread Plate Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3925,9 +2921,10 @@
     "count": "1",
     "name": "Dread Plate Gloves",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Dread Plate Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Dread Plate Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3935,9 +2932,10 @@
     "count": "1",
     "name": "Dread Plate Boots",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Dread Plate Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Dread Plate Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3945,9 +2943,10 @@
     "count": "1",
     "name": "Maleficer Scholar Chestguard",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Maleficer Scholar Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Maleficer Scholar Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3955,9 +2954,10 @@
     "count": "1",
     "name": "Maleficer Scholar Leggings",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Maleficer Scholar Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Maleficer Scholar Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3965,9 +2965,10 @@
     "count": "1",
     "name": "Maleficer Scholar Gloves",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Maleficer Scholar Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Maleficer Scholar Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3975,9 +2976,10 @@
     "count": "1",
     "name": "Maleficer Scholar Boots",
     "category": [
-      "Knowledge - Athenaeum",
-      "Armour - Tier 3",
-      "Maleficer Scholar Set"
+        "Knowledge - Athenaeum",
+        "Armour - Tier 3",
+        "Maleficer Scholar Set",
+        "Act4"
     ],
     "progression": true
   },
@@ -3985,8 +2987,9 @@
     "count": "1",
     "name": "Assortment of Cabinets",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -3994,8 +2997,9 @@
     "count": "1",
     "name": "Assortment of Great Braziers",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4003,8 +3007,9 @@
     "count": "1",
     "name": "Distinguished Carpet Collection",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4012,8 +3017,9 @@
     "count": "1",
     "name": "Assortment of Royal Curtains",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4021,8 +3027,9 @@
     "count": "1",
     "name": "Sofa & Divan Collection",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4030,8 +3037,9 @@
     "count": "1",
     "name": "Dressing Tables & Folding Walls",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4039,8 +3047,9 @@
     "count": "1",
     "name": "Lamp Posts",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4048,8 +3057,9 @@
     "count": "1",
     "name": "Flying Lights",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4057,8 +3067,9 @@
     "count": "1",
     "name": "Garden Archways & Pergolas",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4066,8 +3077,9 @@
     "count": "1",
     "name": "Large Fountain",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },
@@ -4075,8 +3087,9 @@
     "count": "1",
     "name": "Stately Stone Walls",
     "category": [
-      "Knowledge - Athenaeum",
-      "Structures"
+        "Knowledge - Athenaeum",
+        "Structures",
+        "Act4"
     ],
     "progression": true
   },

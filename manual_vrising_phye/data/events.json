@@ -534,6 +534,7 @@
             "category": [
                 "Act4Boss",
                 "VBlood",
+                "DracBoss",
                 "Act4"
             ]
         },
@@ -543,6 +544,7 @@
             "category": [
                 "Act4Boss",
                 "VBlood",
+                "DracBoss",
                 "Act4"
             ]
         },
@@ -552,6 +554,7 @@
             "category": [
                 "Act4Boss",
                 "VBlood",
+                "DracBoss",
                 "Act4"
             ]
         },
@@ -619,6 +622,1073 @@
         {
             "name": "Ancestral Weapon",
             "requires": "|Octavian Defeated| AND |Ziva Defeated| AND |Jade Defeated| AND ((|Progressive Sword:4| OR |Progressive Axes:4| OR |Progressive Mace:4| OR |Progressive Spear:4| OR (|Progressive Crossbow:4| AND |Rufus Defeated|) OR (|Progressive Longbow:3| AND |Lidia Defeated|) OR (|Progressive Greatsword:2| AND |Tristan Defeated|) OR (|Progressive Reaper:2| AND |Kriig Defeated|) OR (|Progressive Daggers:2| AND |Bane Defeated|) OR (|Progressive Claws:2| AND |Frostmaw Defeated|) OR (|Progressive Twinblade:2| AND |Gaius Defeated|) OR (|Progressive Whip:2| AND |Domina Defeated|))"
+        },
+        {
+            "name": "Bone Sword",
+            "category": [
+                "Weapons - Swords"
+            ],
+            "requires": "|Progressive Sword|",
+            "visible": true
+        },
+        {
+            "name": "Reinforced Bone Sword",
+            "category": [
+                "Weapons - Swords"
+            ],
+            "requires": "|Progressive Sword|",
+            "visible": true
+        },
+        {
+            "name": "Copper Sword",
+            "category": [
+                "Weapons - Swords"
+            ],
+            "requires": "|Progressive Sword:2|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Copper Sword",
+            "category": [
+                "Weapons - Swords"
+            ],
+            "requires": "|Progressive Sword:2|",
+            "visible": true
+        },
+        {
+            "name": "Iron Sword",
+            "category": [
+                "Weapons - Swords",
+                "Act2"
+            ],
+            "requires": "|Progressive Sword:3|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Sword",
+            "category": [
+                "Weapons - Swords",
+                "Act2"
+            ],
+            "requires": "|Progressive Sword:3|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Sword",
+            "category": [
+                "Weapons - Swords",
+                "Act3"
+            ],
+            "requires": "|Progressive Sword:4|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Sword",
+            "category": [
+                "Weapons - Swords",
+                "Act4"
+            ],
+            "requires": "|Progressive Sword:5|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Sword",
+            "category": [
+                "Weapons - Swords",
+                "Act4"
+            ],
+            "requires": "|Progressive Sword:6|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Sword",
+            "category": [
+                "Weapons - Swords",
+                "Act4"
+            ],
+            "requires": "|Progressive Sword:7|",
+            "visible": true
+        },
+        {
+            "name": "The Gravecaller",
+            "category": [
+                "Weapons - Swords",
+                "Act4"
+            ],
+            "requires": "|Progressive Sword:8|",
+            "visible": true
+        },
+        {
+            "name": "Bone Axes",
+            "category": [
+                "Weapons - Axes"
+            ],
+            "requires": "|Progressive Axes|",
+            "visible": true
+        },
+        {
+            "name": "Reinforced Bone Axes",
+            "category": [
+                "Weapons - Axes"
+            ],
+            "requires": "|Progressive Axes|",
+            "visible": true
+        },
+        {
+            "name": "Copper Axes",
+            "category": [
+                "Weapons - Axes"
+            ],
+            "requires": "|Progressive Axes:2|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Copper Axes",
+            "category": [
+                "Weapons - Axes"
+            ],
+            "requires": "|Progressive Axes:2|",
+            "visible": true
+        },
+        {
+            "name": "Iron Axes",
+            "category": [
+                "Weapons - Axes",
+                "Act2"
+            ],
+            "requires": "|Progressive Axes:3|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Axes",
+            "category": [
+                "Weapons - Axes",
+                "Act2"
+            ],
+            "requires": "|Progressive Axes:3|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Axes",
+            "category": [
+                "Weapons - Axes",
+                "Act3"
+            ],
+            "requires": "|Progressive Axes:4|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Axes",
+            "category": [
+                "Weapons - Axes",
+                "Act4"
+            ],
+            "requires": "|Progressive Axes:5|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Axes",
+            "category": [
+                "Weapons - Axes",
+                "Act4"
+            ],
+            "requires": "|Progressive Axes:6|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Axes",
+            "category": [
+                "Weapons - Axes",
+                "Act4"
+            ],
+            "requires": "|Progressive Axes:7|",
+            "visible": true
+        },
+        {
+            "name": "The Red Twins",
+            "category": [
+                "Weapons - Axes",
+                "Act4"
+            ],
+            "requires": "|Progressive Axes:8|",
+            "visible": true
+        },
+        {
+            "name": "Bone Mace",
+            "category": [
+                "Weapons - Maces"
+            ],
+            "requires": "|Progressive Mace|",
+            "visible": true
+        },
+        {
+            "name": "Reinforced Bone Mace",
+            "category": [
+                "Weapons - Maces"
+            ],
+            "requires": "|Progressive Mace|",
+            "visible": true
+        },
+        {
+            "name": "Copper Mace",
+            "category": [
+                "Weapons - Maces"
+            ],
+            "requires": "|Progressive Mace:2|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Copper Mace",
+            "category": [
+                "Weapons - Maces"
+            ],
+            "requires": "|Progressive Mace:2|",
+            "visible": true
+        },
+        {
+            "name": "Iron Mace",
+            "category": [
+                "Weapons - Maces",
+                "Act2"
+            ],
+            "requires": "|Progressive Mace:3|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Mace",
+            "category": [
+                "Weapons - Maces",
+                "Act2"
+            ],
+            "requires": "|Progressive Mace:3|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Mace",
+            "category": [
+                "Weapons - Maces",
+                "Act3"
+            ],
+            "requires": "|Progressive Mace:4|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Mace",
+            "category": [
+                "Weapons - Maces",
+                "Act4"
+            ],
+            "requires": "|Progressive Mace:5|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Mace",
+            "category": [
+                "Weapons - Maces",
+                "Act4"
+            ],
+            "requires": "|Progressive Mace:6|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Mace",
+            "category": [
+                "Weapons - Maces",
+                "Act4"
+            ],
+            "requires": "|Progressive Mace:7|",
+            "visible": true
+        },
+        {
+            "name": "Hand of Winter",
+            "category": [
+                "Weapons - Maces",
+                "Act4"
+            ],
+            "requires": "|Progressive Mace:8|",
+            "visible": true
+        },
+        {
+            "name": "Bone Spear",
+            "category": [
+                "Weapons - Spears"
+            ],
+            "requires": "|Progressive Spear|",
+            "visible": true
+        },
+        {
+            "name": "Reinforced Bone Spear",
+            "category": [
+                "Weapons - Spears"
+            ],
+            "requires": "|Progressive Spear|",
+            "visible": true
+        },
+        {
+            "name": "Copper Spear",
+            "category": [
+                "Weapons - Spears"
+            ],
+            "requires": "|Progressive Spear:2|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Copper Spear",
+            "category": [
+                "Weapons - Spears"
+            ],
+            "requires": "|Progressive Spear:2|",
+            "visible": true
+        },
+        {
+            "name": "Iron Spear",
+            "category": [
+                "Weapons - Spears",
+                "Act2"
+            ],
+            "requires": "|Progressive Spear:3|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Spear",
+            "category": [
+                "Weapons - Spears",
+                "Act2"
+            ],
+            "requires": "|Progressive Spear:3|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Spear",
+            "category": [
+                "Weapons - Spears",
+                "Act3"
+            ],
+            "requires": "|Progressive Spear:4|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Spear",
+            "category": [
+                "Weapons - Spears",
+                "Act4"
+            ],
+            "requires": "|Progressive Spear:5|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Spear",
+            "category": [
+                "Weapons - Spears",
+                "Act4"
+            ],
+            "requires": "|Progressive Spear:6|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Spear",
+            "category": [
+                "Weapons - Spears",
+                "Act4"
+            ],
+            "requires": "|Progressive Spear:7|",
+            "visible": true
+        },
+        {
+            "name": "The Thousand Storms",
+            "category": [
+                "Weapons - Spears",
+                "Act4"
+            ],
+            "requires": "|Progressive Spear:8|",
+            "visible": true
+        },
+        {
+            "name": "Iron Reaper",
+            "category": [
+                "Weapons - Reapers",
+                "Act2"
+            ],
+            "requires": "|Progressive Reaper|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Reaper",
+            "category": [
+                "Weapons - Reapers",
+                "Act2"
+            ],
+            "requires": "|Progressive Reaper|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Reaper",
+            "category": [
+                "Weapons - Reapers",
+                "Act3"
+            ],
+            "requires": "|Progressive Reaper:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Reaper",
+            "category": [
+                "Weapons - Reapers",
+                "Act4"
+            ],
+            "requires": "|Progressive Reaper:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Reaper",
+            "category": [
+                "Weapons - Reapers",
+                "Act4"
+            ],
+            "requires": "|Progressive Reaper:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Reaper",
+            "category": [
+                "Weapons - Reapers",
+                "Act4"
+            ],
+            "requires": "|Progressive Reaper:5|",
+            "visible": true
+        },
+        {
+            "name": "Mortira's Lament",
+            "category": [
+                "Weapons - Reapers",
+                "Act4"
+            ],
+            "requires": "|Progressive Reaper:6|",
+            "visible": true
+        },
+        {
+            "name": "Iron Greatsword",
+            "category": [
+                "Weapons - Greatswords",
+                "Act2"
+            ],
+            "requires": "|Progressive Greatsword|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Greatsword",
+            "category": [
+                "Weapons - Greatswords",
+                "Act2"
+            ],
+            "requires": "|Progressive Greatsword|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Greatsword",
+            "category": [
+                "Weapons - Greatswords",
+                "Act3"
+            ],
+            "requires": "|Progressive Greatsword:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Greatsword",
+            "category": [
+                "Weapons - Greatswords",
+                "Act4"
+            ],
+            "requires": "|Progressive Greatsword:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Greatsword",
+            "category": [
+                "Weapons - Greatswords",
+                "Act4"
+            ],
+            "requires": "|Progressive Greatsword:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Greatsword",
+            "category": [
+                "Weapons - Greatswords",
+                "Act4"
+            ],
+            "requires": "|Progressive Greatsword:5|",
+            "visible": true
+        },
+        {
+            "name": "Apocalypse",
+            "category": [
+                "Weapons - Greatswords",
+                "Act4"
+            ],
+            "requires": "|Progressive Greatsword:6|",
+            "visible": true
+        },
+        {
+            "name": "Iron Whip",
+            "category": [
+                "Weapons - Whips",
+                "Act3"
+            ],
+            "requires": "|Progressive Whip|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Whip",
+            "category": [
+                "Weapons - Whips",
+                "Act3"
+            ],
+            "requires": "|Progressive Whip|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Whip",
+            "category": [
+                "Weapons - Whips",
+                "Act3"
+            ],
+            "requires": "|Progressive Whip:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Whip",
+            "category": [
+                "Weapons - Whips",
+                "Act4"
+            ],
+            "requires": "|Progressive Whip:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Whip",
+            "category": [
+                "Weapons - Whips",
+                "Act4"
+            ],
+            "requires": "|Progressive Whip:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Whip",
+            "category": [
+                "Weapons - Whips",
+                "Act4"
+            ],
+            "requires": "|Progressive Whip:5|",
+            "visible": true
+        },
+        {
+            "name": "The Morning Star",
+            "category": [
+                "Weapons - Whips",
+                "Act4"
+            ],
+            "requires": "|Progressive Whip:6|",
+            "visible": true
+        },
+        {
+            "name": "Iron Slashers",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Slashers",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Slashers",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Whip",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Slashers",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Slashers",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers:5|",
+            "visible": true
+        },
+        {
+            "name": "Cloud Dancers",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers:6|",
+            "visible": true
+        },
+        {
+            "name": "Wings of the Fallen",
+            "category": [
+                "Weapons - Slashers",
+                "Act4"
+            ],
+            "requires": "|Progressive Slashers:6|",
+            "visible": true
+        },
+        {
+            "name": "Iron Claws",
+            "category": [
+                "Weapons - Claws",
+                "Act2"
+            ],
+            "requires": "|Progressive Claws|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Claws",
+            "category": [
+                "Weapons - Claws",
+                "Act2"
+            ],
+            "requires": "|Progressive Claws|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Claws",
+            "category": [
+                "Weapons - Claws",
+                "Act3"
+            ],
+            "requires": "|Progressive Claws:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Claws",
+            "category": [
+                "Weapons - Claws",
+                "Act4"
+            ],
+            "requires": "|Progressive Claws:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Claws",
+            "category": [
+                "Weapons - Claws",
+                "Act4"
+            ],
+            "requires": "|Progressive Claws:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Claws",
+            "category": [
+                "Weapons - Claws",
+                "Act4"
+            ],
+            "requires": "|Progressive Claws:5|",
+            "visible": true
+        },
+        {
+            "name": "Talons of the Lich Beast",
+            "category": [
+                "Weapons - Claws",
+                "Act4"
+            ],
+            "requires": "|Progressive Claws:6|",
+            "visible": true
+        },
+        {
+            "name": "Iron Twinblade",
+            "category": [
+                "Weapons - Twinblades",
+                "Act2"
+            ],
+            "requires": "|Progressive Twinblade|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Twinblade",
+            "category": [
+                "Weapons - Twinblades",
+                "Act2"
+            ],
+            "requires": "|Progressive Twinblade|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Twinblade",
+            "category": [
+                "Weapons - Twinblades",
+                "Act3"
+            ],
+            "requires": "|Progressive Twinblade:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Twinblade",
+            "category": [
+                "Weapons - Twinblades",
+                "Act4"
+            ],
+            "requires": "|Progressive Twinblade:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Twinblade",
+            "category": [
+                "Weapons - Twinblades",
+                "Act4"
+            ],
+            "requires": "|Progressive Twinblade:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Twinblade",
+            "category": [
+                "Weapons - Twinblades",
+                "Act4"
+            ],
+            "requires": "|Progressive Twinblade:5|",
+            "visible": true
+        },
+        {
+            "name": "The Fate Dancers",
+            "category": [
+                "Weapons - Twinblades",
+                "Act4"
+            ],
+            "requires": "|Progressive Twinblade:6|",
+            "visible": true
+        },
+        {
+            "name": "Bone Crossbow",
+            "category": [
+                "Weapons - Crossbows"
+            ],
+            "requires": "|Progressive Crossbow|",
+            "visible": true
+        },
+        {
+            "name": "Reinforced Bone Crossbow",
+            "category": [
+                "Weapons - Crossbows"
+            ],
+            "requires": "|Progressive Crossbow|",
+            "visible": true
+        },
+        {
+            "name": "Copper Crossbow",
+            "category": [
+                "Weapons - Crossbows"
+            ],
+            "requires": "|Progressive Crossbow:2|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Copper Crossbow",
+            "category": [
+                "Weapons - Crossbows"
+            ],
+            "requires": "|Progressive Crossbow:2|",
+            "visible": true
+        },
+        {
+            "name": "Iron Crossbow",
+            "category": [
+                "Weapons - Crossbows",
+                "Act2"
+            ],
+            "requires": "|Progressive Crossbow:3|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Crossbow",
+            "category": [
+                "Weapons - Crossbows",
+                "Act2"
+            ],
+            "requires": "|Progressive Crossbow:3|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Crossbow",
+            "category": [
+                "Weapons - Crossbows",
+                "Act3"
+            ],
+            "requires": "|Progressive Crossbow:4|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Crossbow",
+            "category": [
+                "Weapons - Crossbows",
+                "Act4"
+            ],
+            "requires": "|Progressive Crossbow:5|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Crossbow",
+            "category": [
+                "Weapons - Crossbows",
+                "Act4"
+            ],
+            "requires": "|Progressive Crossbow:6|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Crossbow",
+            "category": [
+                "Weapons - Crossbows",
+                "Act4"
+            ],
+            "requires": "|Progressive Crossbow:7|",
+            "visible": true
+        },
+        {
+            "name": "The Siren's Wail",
+            "category": [
+                "Weapons - Crossbows",
+                "Act4"
+            ],
+            "requires": "|Progressive Crossbow:8|",
+            "visible": true
+        },
+        {
+            "name": "Copper Longbow",
+            "category": [
+                "Weapons - Longbows"
+            ],
+            "requires": "|Progressive Longbow|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Copper Longbow",
+            "category": [
+                "Weapons - Longbows"
+            ],
+            "requires": "|Progressive Longbow|",
+            "visible": true
+        },
+        {
+            "name": "Iron Longbow",
+            "category": [
+                "Weapons - Longbows",
+                "Act2"
+            ],
+            "requires": "|Progressive Crossbow:2|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Longbow",
+            "category": [
+                "Weapons - Longbows",
+                "Act2"
+            ],
+            "requires": "|Progressive Longbow:2|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Longbow",
+            "category": [
+                "Weapons - Longbows",
+                "Act3"
+            ],
+            "requires": "|Progressive Longbow:3|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Longbow",
+            "category": [
+                "Weapons - Longbows",
+                "Act4"
+            ],
+            "requires": "|Progressive Longbow:4|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Longbow",
+            "category": [
+                "Weapons - Longbows",
+                "Act4"
+            ],
+            "requires": "|Progressive Longbow:5|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Longbow",
+            "category": [
+                "Weapons - Longbows",
+                "Act4"
+            ],
+            "requires": "|Progressive Longbow:6|",
+            "visible": true
+        },
+        {
+            "name": "Oaksong",
+            "category": [
+                "Weapons - Longbow",
+                "Act4"
+            ],
+            "requires": "|Progressive Longbow:7|",
+            "visible": true
+        },
+        {
+            "name": "Iron Daggers",
+            "category": [
+                "Weapons - Daggers",
+                "Act2"
+            ],
+            "requires": "|Progressive Daggers|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Daggers",
+            "category": [
+                "Weapons - Daggers",
+                "Act2"
+            ],
+            "requires": "|Progressive Daggers|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Daggers",
+            "category": [
+                "Weapons - Daggers",
+                "Act3"
+            ],
+            "requires": "|Progressive Daggers:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Daggers",
+            "category": [
+                "Weapons - Daggers",
+                "Act4"
+            ],
+            "requires": "|Progressive Daggers:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Daggers",
+            "category": [
+                "Weapons - Daggers",
+                "Act4"
+            ],
+            "requires": "|Progressive Daggers:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Daggers",
+            "category": [
+                "Weapons - Daggers",
+                "Act4"
+            ],
+            "requires": "|Progressive Daggers:5|",
+            "visible": true
+        },
+        {
+            "name": "The Wraithblades",
+            "category": [
+                "Weapons - Daggers",
+                "Act4"
+            ],
+            "requires": "|Progressive Daggers:6|",
+            "visible": true
+        },
+        {
+            "name": "Iron Pistols",
+            "category": [
+                "Weapons - Pistols",
+                "Act2"
+            ],
+            "requires": "|Progressive Pistols|",
+            "visible": true
+        },
+        {
+            "name": "Merciless Iron Pistols",
+            "category": [
+                "Weapons - Pistols",
+                "Act2"
+            ],
+            "requires": "|Progressive Pistols|",
+            "visible": true
+        },
+        {
+            "name": "Rare Ancestral Pistols",
+            "category": [
+                "Weapons - Pistols",
+                "Act3"
+            ],
+            "requires": "|Progressive Pistols:2|",
+            "visible": true
+        },
+        {
+            "name": "Dark Silver Pistols",
+            "category": [
+                "Weapons - Pistols",
+                "Act4"
+            ],
+            "requires": "|Progressive Pistols:3|",
+            "visible": true
+        },
+        {
+            "name": "Sanguine Pistols",
+            "category": [
+                "Weapons - Pistols",
+                "Act4"
+            ],
+            "requires": "|Progressive Pistols:4|",
+            "visible": true
+        },
+        {
+            "name": "Epic Ancestral Pistols",
+            "category": [
+                "Weapons - Pistols",
+                "Act4"
+            ],
+            "requires": "|Progressive Pistols:5|",
+            "visible": true
+        },
+        {
+            "name": "The Endbringers",
+            "category": [
+                "Weapons - Pistols",
+                "Act4"
+            ],
+            "requires": "|Progressive Pistols:6|",
+            "visible": true
         }
     ]
 }

@@ -766,7 +766,7 @@
   },
   "Immortal King": {
     "connects_to": [],
-    "requires": "|@DracBoss:all| AND |Dracula the Immortal King|"
+    "requires": "|@DracBoss:4| AND |Dracula the Immortal King|"
   },
   "Farbane Woods": {
     "connects_to": [],

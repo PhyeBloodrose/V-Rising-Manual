@@ -70,9 +70,10 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
-    include_act_2 = is_option_enabled(multiworld, player, "Act_2")
-    include_act_3 = is_option_enabled(multiworld, player, "Act_3")
-    include_act_4 = is_option_enabled(multiworld, player, "Act_4")
+    from ..Helpers import get_option_value
+    include_act_2 = get_option_value(multiworld, player, "Final_Act") >= 1
+    include_act_3 = get_option_value(multiworld, player, "Final_Act") >= 2
+    include_act_4 = get_option_value(multiworld, player, "Final_Act") >= 3
     if not include_act_4:
         item_config["Progressive Sword"] = {"progression": 4}
         item_config["Progressive Axes"] = {"progression": 4}

@@ -5,6 +5,14 @@ from BaseClasses import MultiWorld
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
+    from ..Helpers import get_option_value
+
+    if category_name == "Act2":
+        return get_option_value(multiworld, player, "Final_Act") >= 1
+    if category_name == "Act3":
+        return get_option_value(multiworld, player, "Final_Act") >= 2
+    if category_name == "Act4":
+        return get_option_value(multiworld, player, "Final_Act") >= 3
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
